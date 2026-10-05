@@ -8,7 +8,7 @@
 
 ## ¡Qué onda, rasa!
 
-¿Qué dice la fiesta, carnalitos? Soy **Iván**, un jugador ciego de México, y aquí les presento **QC Sala**, la app que armé para jugar en la [Sala de Juegos de QuentinC](https://qcsalon.net) desde el teléfono, bien a gusto y sin batallar. La hice porque quería jugar en el cel igual de sabroso que en la compu, y ya que quedó chida, ¡pues que la disfrute toda la banda!
+¿Qué dice la fiesta, carnalitos? Soy **Iván**, un jugador ciego de México, y aquí les presento **QC Sala**, la app que armé para jugar en la [Sala de Juegos de QuentinC](https://qcsalon.net) desde el teléfono, bien a gusto y sin batallar. La hice porque quería jugar en el cel igual de sabroso que en la compu, y ya que quedó chingona, ¡pues que la disfrute toda la banda!
 
 Nada de una página web metida en una app: QC Sala está hecha desde cero para el teléfono, pensada para quien juega con **Jieshuo** o **TalkBack**, y también para quien ve poquito o simplemente quiere jugar sin complicarse. Uno, Ninety nine, Dominó, Monopoly, 1000 millas, Escoba, Póker, Yatzee, Ajedrez contra personas y un buen de juegos más. ¿Qué royo con el pollo? Pues que ya se puede jugar en el cel como en la compu. 🙌
 
@@ -64,7 +64,7 @@ Hay cosas que dependen de la sala y no de la app, y esas solo las puede abrir su
 
 ## 💬 ¿Algo no jala? ¿Tienes una idea?
 
-¡Cuéntame, carnalito! Abre un reporte en la pestaña **[Issues](https://github.com/ivanack123/qc-sala/issues)** de este repo. Dime qué teléfono tienes, qué lector usas y qué pasó. Cada comentario hace la app más chida para toda la banda.
+¡Cuéntame, carnalito! Abre un reporte en la pestaña **[Issues](https://github.com/ivanack123/qc-sala/issues)** de este repo. Dime qué teléfono tienes, qué lector usas y qué pasó. Cada comentario hace la app más chingona para toda la banda.
 
 ## ❤️ De mi parte
 
