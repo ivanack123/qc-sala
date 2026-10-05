@@ -10,7 +10,7 @@
 
 ¿Qué dice la fiesta, carnalitos? Soy **Iván**, un jugador ciego de México, y aquí les presento **QC Sala**, la app que armé para jugar en la [Sala de Juegos de QuentinC](https://qcsalon.net) desde el teléfono, bien a gusto y sin batallar. La hice porque quería jugar en el cel igual de sabroso que en la compu, y ya que quedó chida, ¡pues que la disfrute toda la banda!
 
-Nada de una página web metida en una app: QC Sala está hecha desde cero para el teléfono, pensada para quien juega con **Jieshuo** o **TalkBack**, y también para quien ve poquito, tiene temblor en las manos o simplemente quiere jugar sin complicarse. Uno, Ninety nine, Dominó, Monopoly, 1000 millas, Escoba, Póker, Yatzee, Ajedrez contra personas y un buen de juegos más. ¿Qué royo con el pollo? Pues que ya se puede jugar en el cel como en la compu. 🙌
+Nada de una página web metida en una app: QC Sala está hecha desde cero para el teléfono, pensada para quien juega con **Jieshuo** o **TalkBack**, y también para quien ve poquito o simplemente quiere jugar sin complicarse. Uno, Ninety nine, Dominó, Monopoly, 1000 millas, Escoba, Póker, Yatzee, Ajedrez contra personas y un buen de juegos más. ¿Qué royo con el pollo? Pues que ya se puede jugar en el cel como en la compu. 🙌
 
 > **Ojo, carnal:** QC Sala es una app **no oficial**. No la hizo QuentinC ni tiene que ver con él. Solo se conecta a su sala, con tu propia cuenta de qcsalon.net, igual que lo hace la página web.
 
@@ -37,7 +37,7 @@ Nada de una página web metida en una app: QC Sala está hecha desde cero para e
 - **Más opciones** en la esquina de abajo a la izquierda: salir de la mesa, gestión de la mesa, amigos, bandeja de entrada y todo lo demás. Y cualquiera de esas cosas la puedes poner en un gesto.
 - **Sigue conectada con la pantalla apagada**, para esperar tu turno con el teléfono en la mesa. La app te dice cómo dejarlo listo.
 - **Tres idiomas:** español, inglés y francés, según el idioma de tu teléfono.
-- **Accesible para todos:** alto contraste, letra grande, nada que parpadee, gestos que aguantan el temblor de la mano y un doble toque que puedes hacer más rápido o más lento.
+- **Accesible para todos:** alto contraste, letra grande, nada que parpadee y un doble toque que puedes hacer más rápido o más lento.
 
 ## 📖 Guías
 
@@ -76,7 +76,7 @@ Iván
 
 ## English
 
-Hi, I'm **Iván**, a blind gamer from Mexico. I built **QC Sala**, a native Android app to play at [QuentinC's Playroom](https://qcsalon.net) from your phone, made from scratch for people who play with a screen reader (Jieshuo or TalkBack), and also for low vision, hand tremor and anyone who wants an easy ride.
+Hi, I'm **Iván**, a blind gamer from Mexico. I built **QC Sala**, a native Android app to play at [QuentinC's Playroom](https://qcsalon.net) from your phone, made from scratch for people who play with a screen reader (Jieshuo or TalkBack), and also for low vision and anyone who wants an easy ride.
 
 > **Heads up:** QC Sala is an **unofficial** app. It isn't made by QuentinC or affiliated with him. It just connects to his playroom with your own qcsalon.net account, the same way the website does.
 
@@ -93,7 +93,7 @@ Hi, I'm **Iván**, a blind gamer from Mexico. I built **QC Sala**, a native Andr
 
 ## Français
 
-Bonjour, je suis **Iván**, un joueur aveugle du Mexique. J’ai créé **QC Sala**, une appli Android native pour jouer au [Salon de jeux de QuentinC](https://qcsalon.net) depuis votre téléphone, conçue pour les personnes qui jouent avec un lecteur d’écran (Jieshuo ou TalkBack), et aussi pour la basse vision, les tremblements et tous ceux qui veulent jouer sans se compliquer la vie.
+Bonjour, je suis **Iván**, un joueur aveugle du Mexique. J’ai créé **QC Sala**, une appli Android native pour jouer au [Salon de jeux de QuentinC](https://qcsalon.net) depuis votre téléphone, conçue pour les personnes qui jouent avec un lecteur d’écran (Jieshuo ou TalkBack), et aussi pour la basse vision et tous ceux qui veulent jouer sans se compliquer la vie.
 
 > **Attention :** QC Sala est une appli **non officielle**. Elle n’est pas faite par QuentinC et n’a pas de lien avec lui. Elle se connecte simplement à son Salon avec votre propre compte qcsalon.net, comme le site web.
 
