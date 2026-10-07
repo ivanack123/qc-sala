@@ -16,7 +16,7 @@ Nada de una página web metida en una app: QC Sala está hecha desde cero para e
 
 ## ⬇️ Descárgala
 
-1. **[Baja aquí la última versión (QC-Sala-1.0.2.apk)](https://github.com/ivanack123/qc-sala/releases/latest)**. Pesa unos 4,7 MB.
+1. **[Baja aquí la última versión (QC-Sala-1.0.3.apk)](https://github.com/ivanack123/qc-sala/releases/latest)**. Pesa unos 1,7 MB.
 2. Sigue la **[guía de instalación](guias/guia-instalacion.md)**, paso por paso, con todos los avisos que te puede poner Android, Samsung y Play Protect. Como la app no viene de la tienda de Google, Android pregunta un par de cosas de más. No te espantes: la guía te lleva de la mano.
 3. Ya instalada, **la app te avisa sola cuando saque una versión nueva** y la actualiza con un par de toques, sin perder tu sesión ni tus ajustes.
 

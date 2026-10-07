@@ -4,6 +4,18 @@ QC Sala es una app no oficial para Android, hecha para jugar en la Sala de Juego
 
 El número de versión tiene tres partes: la primera sube con un gran salto, la segunda con funciones nuevas y la tercera con correcciones pequeñas.
 
+## Versión 1.0.3 (7 de octubre de 2026)
+
+### Cambios
+
+- La app pesa casi tres veces menos: de unos 4,7 MB a 1,7 MB. Se baja más rápido y ocupa menos en tu teléfono.
+- Por dentro está mejor protegida y más ordenada. Todo funciona igual que antes.
+- Tus ajustes y tus gestos personalizados se conservan al actualizar.
+
+### Un consejo
+
+- Si a veces sientes que un bot tarda mucho o que dos jugadas te llegan juntas, revisa tu wifi: suele ser señal de que tu teléfono pierde conexión con el módem. Acércate a él, usa la red de 2.4 GHz si tu módem la tiene, o reinícialo.
+
 ## Versión 1.0.2 (4 de octubre de 2026)
 
 ### Novedades
@@ -185,6 +197,10 @@ La primera versión para compartir con amigos. Es un archivo APK de unos 4,7 MB,
 
 ## In English
 
+### Version 1.0.3 (October 7, 2026)
+
+- The app is almost three times smaller (from about 4.7 MB to 1.7 MB), better protected inside, and works the same. Your settings and gestures are kept when you update.
+
 ### Version 1.0.2 (October 4, 2026)
 
 - New: QC Sala now updates itself. Once a day it asks GitHub, the site where it's published, whether there is a new version; all it sends is the app's name and version number. If there is one, a dialog shows the version, the download size and what's new, with "Update" and "Not now". "Update" downloads it and opens Android's own installer, and you confirm. The first time, Android asks you to let QC Sala install apps; the app explains it and opens that setting for you.
@@ -202,6 +218,10 @@ La primera versión para compartir con amigos. Es un archivo APK de unos 4,7 MB,
 - Extra safety: the app never follows a redirect that could send your pass to another server.
 
 ## En français
+
+### Version 1.0.3 (7 octobre 2026)
+
+- L’appli est presque trois fois plus légère (de 4,7 Mo environ à 1,7 Mo), mieux protégée à l’intérieur, et fonctionne pareil. Vos paramètres et vos gestes sont conservés lors de la mise à jour.
 
 ### Version 1.0.2 (4 octobre 2026)
 

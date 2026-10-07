@@ -1,6 +1,6 @@
 # GUIDE FACILE DE QC SALA
 
-Pour la version 1.0.2 de l’appli.
+Pour la version 1.0.3 de l’appli.
 
 Ce guide est court et simple. Chaque partie a un numéro et un titre. Les étapes indiquent ce qu’il faut faire et, souvent, ce que vous allez entendre.
 
@@ -15,7 +15,7 @@ Ce guide est court et simple. Chaque partie a un numéro et un titre. Les étape
 
 ## 1. AVANT DE COMMENCER : INSTALLER L’APPLI
 
-Si QC Sala n’est pas encore sur votre téléphone, il faut d’abord l’installer. L’appli se présente sous la forme d’un fichier appelé QC-Sala-1.0.2.apk.
+Si QC Sala n’est pas encore sur votre téléphone, il faut d’abord l’installer. L’appli se présente sous la forme d’un fichier appelé QC-Sala-1.0.3.apk.
 
 L’installation, étape par étape, est expliquée dans un autre guide, le Guide d’installation : c’est le fichier « GUIDE D'INSTALLATION de QC Sala.txt ». Si c’est difficile pour vous, demandez à une personne de confiance de vous aider pour cette partie.
 

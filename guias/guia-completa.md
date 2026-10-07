@@ -1,6 +1,6 @@
 # GUÍA COMPLETA DE QC SALA
 
-Versión de la app: 1.0.2. Guía escrita en octubre de 2026.
+Versión de la app: 1.0.3. Guía escrita en octubre de 2026.
 
 Esta guía es para quien ya maneja bien su teléfono Android y su lector de pantalla. Cada parte empieza con un número y un título en mayúsculas, para que la encuentres con la búsqueda de tu lector o saltando de línea en línea. Si prefieres algo más sencillo, está la [GUÍA FÁCIL](guia-facil.md). Para instalar la app paso a paso, está la [GUÍA DE INSTALACIÓN](guia-instalacion.md).
 
@@ -35,7 +35,7 @@ Todo lo que hacen los gestos tiene también un botón.
 
 ## 3. INSTALAR LA APP
 
-QC Sala no está en la tienda de Google. Se instala con su archivo, QC-Sala-1.0.2.apk (unos 4,7 MB), que te pasa quien te la comparte. Los pasos completos, con los avisos que pueden salir de Android, de Samsung y de Play Protect, están en la [GUÍA DE INSTALACIÓN](guia-instalacion.md). En resumen:
+QC Sala no está en la tienda de Google. Se instala con su archivo, QC-Sala-1.0.3.apk (unos 1,7 MB), que te pasa quien te la comparte. Los pasos completos, con los avisos que pueden salir de Android, de Samsung y de Play Protect, están en la [GUÍA DE INSTALACIÓN](guia-instalacion.md). En resumen:
 
 1. Abre el archivo desde donde lo recibiste: WhatsApp, el navegador o la app de archivos.
 2. Si Android te pide permiso para instalar apps desde esa app, dáselo. Según el teléfono, la opción se llama "Confiar en esta fuente" o "Permitir de esta fuente". En Android 7 es un solo permiso para todo el teléfono, "Orígenes desconocidos", en los ajustes de "Seguridad".
@@ -45,7 +45,7 @@ QC Sala no está en la tienda de Google. Se instala con su archivo, QC-Sala-1.0.
 
 En los teléfonos Samsung puede hacer falta apagar antes el "Bloqueador automático", y Play Protect puede recomendar que analices la app antes de instalarla. La guía de instalación explica los dos casos.
 
-Desde la versión 1.0.2 no hace falta que te manden el archivo para pasar a una versión nueva: la app avisa sola y se actualiza con su propio botón (parte 26). El camino a mano sigue sirviendo, y es el que necesitas si tu versión es anterior a la 1.0.2: instala el archivo nuevo encima de la que tienes, sin desinstalarla. Así conservas tus ajustes, tu sesión guardada y el toque directo encendido.
+Desde la versión 1.0.2 no hace falta que te manden el archivo para pasar a una versión nueva: la app avisa sola y se actualiza con su propio botón (parte 26). El camino a mano sigue sirviendo, y es el que necesitas si tu versión es anterior a la 1.0.3: instala el archivo nuevo encima de la que tienes, sin desinstalarla. Así conservas tus ajustes, tu sesión guardada y el toque directo encendido.
 
 Excepción en Android 14: cuando instalas la versión nueva a mano, desde un archivo, Android apaga el toque directo. No se puede evitar, pasa dentro de Android y no es una falla de la app. Al entrar a la sala, QC Sala lo nota y te dice una vez qué pasó. Para volver a encenderlo, ve a Ajustes de la app y toca "Activar el toque directo" (parte 4). Con el botón de actualizar de la propia app esto no pasa.
 
@@ -658,7 +658,7 @@ Volúmenes: sonido, notificaciones y música y flujos, cada uno con su barra y s
 
 ### Actualizaciones (entre Volúmenes y Avanzado):
 
-- Una línea con la versión que tienes: "Tienes la versión 1.0.2 de QC Sala."
+- Una línea con la versión que tienes: "Tienes la versión 1.0.3 de QC Sala."
 - Una explicación: una vez al día, QC Sala le pregunta a GitHub, el sitio donde se publica, si hay una versión nueva. Solo le dice el nombre de la app y su número de versión. No manda nada tuyo: ni tu cuenta ni datos del teléfono, como la versión de Android.
 - La casilla "Buscar actualizaciones". Viene encendida. Si la apagas, la app deja de preguntar sola.
 - El botón "Buscar actualizaciones ahora": revisa en ese momento, también con la casilla apagada, y te dice el resultado en un cuadro, aunque no haya nada nuevo (parte 26).
@@ -815,7 +815,7 @@ Para reportar un fallo, enciende el registro de depuración (Ajustes, Avanzado, 
 
 Desde la versión 1.0.2, QC Sala se actualiza con su propio botón: no hace falta que te manden el archivo ni abrirlo a mano. Una vez al día, la app le pregunta a GitHub, la página donde se publica, si hay una versión nueva. Esa consulta solo lleva el nombre de la app y su número de versión.
 
-Cuando hay una versión nueva, sale un cuadro llamado "Hay una versión nueva de QC Sala". Oirás el número de la versión nueva y el de la que tienes ("Versión 1.0.3. Tienes la 1.0.2."), cuánto pesa la descarga y las novedades. Tiene dos botones: "Actualizar" y "Ahora no". Con "Ahora no", el cuadro se cierra y no vuelve a salir por esa versión hasta el día siguiente.
+Cuando hay una versión nueva, sale un cuadro llamado "Hay una versión nueva de QC Sala". Oirás el número de la versión nueva y el de la que tienes ("Versión 1.0.3. Tienes la 1.0.3."), cuánto pesa la descarga y las novedades. Tiene dos botones: "Actualizar" y "Ahora no". Con "Ahora no", el cuadro se cierra y no vuelve a salir por esa versión hasta el día siguiente.
 
 ### Pasos para actualizar:
 

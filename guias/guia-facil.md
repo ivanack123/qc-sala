@@ -1,6 +1,6 @@
 # GUÍA FÁCIL DE QC SALA
 
-Para la versión 1.0.2 de la app.
+Para la versión 1.0.3 de la app.
 
 Esta guía es corta y sencilla. Cada parte tiene un número y un título. Los pasos dicen qué hacer y, muchas veces, qué vas a oír.
 
@@ -15,7 +15,7 @@ Esta guía es corta y sencilla. Cada parte tiene un número y un título. Los pa
 
 ## 1. ANTES DE EMPEZAR: INSTALAR LA APP
 
-Si QC Sala todavía no está en tu teléfono, primero hay que instalarla. La app viene en un archivo que se llama QC-Sala-1.0.2.apk.
+Si QC Sala todavía no está en tu teléfono, primero hay que instalarla. La app viene en un archivo que se llama QC-Sala-1.0.3.apk.
 
 Cómo instalarla, paso a paso, lo explica otra guía, la Guía de instalación: es el archivo [GUÍA DE INSTALACIÓN](guia-instalacion.md). Si te cuesta, pide a alguien de confianza que te ayude con esa parte.
 

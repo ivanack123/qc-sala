@@ -1,6 +1,6 @@
 # GUÍA DE INSTALACIÓN DE QC SALA
 
-Versión de la app: 1.0.2. Guía escrita en octubre de 2026.
+Versión de la app: 1.0.3. Guía escrita en octubre de 2026.
 
 QC Sala es una app no oficial para jugar en la Sala de Juegos de QuentinC (qcsalon.net) con tu lector de pantalla. No está en la tienda de Google: se instala con un archivo. Esta guía te lleva paso a paso, desde que recibes el archivo hasta que entras a jugar, y te dice lo que vas a oír en cada pantalla.
 
@@ -19,7 +19,7 @@ Una nota honesta: esta guía es nueva y todavía no se ha probado completa en un
 
 1. Un teléfono con Android 7 o más. Sirve en teléfonos de 32 y de 64 bits.
 2. Para el toque directo, Android 11 o más. El toque directo deja jugar deslizando un dedo por toda la pantalla de la sala (parte 8). Con Android 7 a 10 también puedes jugar: la sala se usa con la navegación de siempre de tu lector, los gestos de dos y tres dedos y los botones.
-3. El archivo de la app: QC-Sala-1.0.2.apk. Pesa unos 4,7 MB. Los archivos que terminan en .apk son apps de Android.
+3. El archivo de la app: QC-Sala-1.0.3.apk. Pesa unos 1,7 MB. Los archivos que terminan en .apk son apps de Android.
 4. El PIN, patrón o contraseña con que desbloqueas tu teléfono, si tienes uno. Android te lo pide en algunos pasos.
 5. Tu nombre de usuario y tu contraseña de qcsalon.net. Si no tienes cuenta, la app tiene un botón para crearla (parte 6).
 6. Internet, por wifi o datos móviles.
@@ -55,7 +55,7 @@ Hay dos caminos: el A, si te llegó por WhatsApp, y el B, si te llegó un enlace
 ### Camino A, por WhatsApp:
 
 1. Abre el chat donde te llegó el archivo.
-2. Busca el mensaje con el archivo "QC-Sala-1.0.2.apk".
+2. Busca el mensaje con el archivo "QC-Sala-1.0.3.apk".
 3. Tócalo. Si primero se tiene que descargar, espera a que termine y tócalo otra vez.
 4. Android te muestra un aviso sobre instalar apps desconocidas. Sigue con la parte 4.
 
@@ -63,11 +63,11 @@ Si WhatsApp no abre el archivo, pídele a quien te lo mandó un enlace de descar
 
 ### Camino B, con un enlace:
 
-1. Toca el enlace. Tu navegador baja el archivo "QC-Sala-1.0.2.apk".
+1. Toca el enlace. Tu navegador baja el archivo "QC-Sala-1.0.3.apk".
 2. Si el navegador te pregunta si de verdad quieres descargarlo, confírmalo. Hazlo solo si el enlace te lo mandó una persona de confianza.
 3. Cuando termine la descarga, abre la app de archivos del teléfono. En Samsung se llama "Mis archivos"; en otros teléfonos, "Archivos", "Files" o algo parecido.
 4. Entra a la carpeta "Descargas". En algunos teléfonos esa carpeta se abre sola.
-5. Toca el archivo "QC-Sala-1.0.2.apk".
+5. Toca el archivo "QC-Sala-1.0.3.apk".
 6. Android te muestra un aviso sobre instalar apps desconocidas. Sigue con la parte 4.
 
 
@@ -225,7 +225,7 @@ Mientras tanto, QC Sala funciona sin el toque directo: la sala se usa igual con 
 
 Una versión nueva de QC Sala siempre se instala encima de la que tienes. No desinstales la anterior: al desinstalar se borran tus ajustes, y tendrías que encender otra vez el toque directo y dar otra vez los permisos.
 
-Desde la versión 1.0.2, la app avisa sola cuando hay una versión nueva y se actualiza con su propio botón. Una vez al día le pregunta a GitHub, la página donde se publica, si hay una; en esa consulta solo van el nombre de la app y su número de versión. El camino a mano, con el archivo, sigue sirviendo, y es el que necesitas si tu versión es anterior a la 1.0.2.
+Desde la versión 1.0.2, la app avisa sola cuando hay una versión nueva y se actualiza con su propio botón. Una vez al día le pregunta a GitHub, la página donde se publica, si hay una; en esa consulta solo van el nombre de la app y su número de versión. El camino a mano, con el archivo, sigue sirviendo, y es el que necesitas si tu versión es anterior a la 1.0.3.
 
 ### Con el botón de la app (desde la versión 1.0.2):
 
