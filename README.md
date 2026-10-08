@@ -16,9 +16,9 @@ Nada de una página web metida en una app: QC Sala está hecha desde cero para e
 
 ## ⬇️ Descárgala
 
-1. **[Baja aquí la última versión (QC-Sala-1.0.3.apk)](https://github.com/ivanack123/qc-sala/releases/latest)**. Pesa unos 1,7 MB.
+1. **[Baja aquí la última versión (QC-Sala-1.0.4.apk)](https://github.com/ivanack123/qc-sala/releases/latest)**. Pesa unos 1,7 MB.
 2. Sigue la **[guía de instalación](guias/guia-instalacion.md)**, paso por paso, con todos los avisos que te puede poner Android, Samsung y Play Protect. Como la app no viene de la tienda de Google, Android pregunta un par de cosas de más. No te espantes: la guía te lleva de la mano.
-3. Ya instalada, **la app te avisa sola cuando saque una versión nueva** y la actualiza con un par de toques, sin perder tu sesión ni tus ajustes.
+3. Ya instalada, **la app te avisa sola cuando saque una versión nueva** y la actualiza con un par de toques, sin perder tu sesión ni tus ajustes. Además, después de actualizar te cuenta las novedades de la versión.
 
 **Lo que necesitas:**
 - Un teléfono con **Android 7 o más nuevo**.
@@ -29,6 +29,7 @@ Nada de una página web metida en una app: QC Sala está hecha desde cero para e
 
 - **Toque directo.** La pantalla entera es tu zona de juego: deslizas un dedo para moverte entre tus cartas o fichas y das doble toque para jugar. Sin explorar, sin perderte.
 - **Gestos para cada juego.** La app sabe en qué juego estás y se acomoda sola: en Uno dices "Uno" con dos dedos hacia arriba, robas con dos dedos hacia abajo, preguntas a quién le toca con tres dedos. Y si quieres, personalizas cada gesto, para todos los juegos o solo para uno.
+- **Saltos al primero y al último.** Un dedo hacia arriba y, sin levantarlo, hacia abajo te lleva al primer elemento de la zona; hacia abajo y luego arriba, al último. También sirve en el historial.
 - **Los gestos de tu lector siguen vivos.** Abajo y a la izquierda es Atrás, y el menú de tu lector queda a un gesto de distancia, aun en plena partida.
 - **Los mismos sonidos de la sala**, con sus efectos, como en el programa de la compu.
 - **Avisos ordenados.** Lo que tú juegas no se repite, y la jugada de los bots no se pierde aunque llegue de golpe.
@@ -58,7 +59,7 @@ Hay cosas que dependen de la sala y no de la app, y esas solo las puede abrir su
 ## 🔒 Tu cuenta, segura
 
 - La app **nunca guarda tu contraseña**. Si quieres, tu gestor de contraseñas (como Samsung Pass o Google) la guarda por ti.
-- No hay anuncios, ni rastreo, ni nada raro. La app solo habla con qcsalon.net para jugar, y una vez al día con este repo de GitHub para ver si hay versión nueva, sin mandar ningún dato tuyo. Si no quieres, lo apagas en Ajustes.
+- No hay anuncios, ni rastreo, ni nada raro. La app solo habla con qcsalon.net para jugar, y, al abrirla y cada tres horas mientras está conectada, con este repo de GitHub para ver si hay versión nueva, sin mandar ningún dato tuyo. Si no quieres, lo apagas en Ajustes.
 - Solo instala actualizaciones firmadas con mi llave: si alguien intentara colar otro archivo, la app lo rechaza.
 - La firma de la app es siempre la misma, así que cada actualización se instala encima sin perder tus datos.
 

@@ -1,6 +1,6 @@
 # GUÍA FÁCIL DE QC SALA
 
-Para la versión 1.0.3 de la app.
+Para la versión 1.0.4 de la app.
 
 Esta guía es corta y sencilla. Cada parte tiene un número y un título. Los pasos dicen qué hacer y, muchas veces, qué vas a oír.
 
@@ -15,7 +15,7 @@ Esta guía es corta y sencilla. Cada parte tiene un número y un título. Los pa
 
 ## 1. ANTES DE EMPEZAR: INSTALAR LA APP
 
-Si QC Sala todavía no está en tu teléfono, primero hay que instalarla. La app viene en un archivo que se llama QC-Sala-1.0.3.apk.
+Si QC Sala todavía no está en tu teléfono, primero hay que instalarla. La app viene en un archivo que se llama QC-Sala-1.0.4.apk.
 
 Cómo instalarla, paso a paso, lo explica otra guía, la Guía de instalación: es el archivo [GUÍA DE INSTALACIÓN](guia-instalacion.md). Si te cuesta, pide a alguien de confianza que te ayude con esa parte.
 
@@ -151,6 +151,7 @@ Estos gestos funcionan con el toque directo encendido. Hazlos en cualquier parte
 11. Puedes dejar un dedo apoyado en la pantalla mientras piensas: no pasa nada. Si luego deslizas, cuenta el deslizamiento.
 12. Mantener dos dedos quietos un momento y levantarlos (el teléfono vibra suave cuando ya puedes): se abre "Gestos del juego", con todo lo que puedes hacer en ese juego y qué hace cada gesto.
 13. Dos gestos con un dedo, en dos trazos seguidos sin levantarlo: abajo y luego a la izquierda es Atrás, como el botón Atrás del teléfono. Abajo y luego a la derecha, hecho dos veces, abre el menú de tu lector. La primera vez oyes "Pantalla para tu lector: repite el gesto"; la segunda lo hace tu lector.
+14. Dos gestos más con un dedo, también en dos trazos seguidos sin levantarlo: arriba y luego abajo te lleva al primer elemento de la zona (la primera carta o la primera opción); abajo y luego arriba, al último. También sirven en el historial, para ir al primer o al último mensaje. Haz cada trazo largo, como un deslizamiento normal. Si ya estabas en ese elemento, suena un tope.
 
 La primera vez que entras a cada juego oyes: "Mantén dos dedos para conocer los gestos de este juego." Es el gesto 12.
 
@@ -274,7 +275,13 @@ En "Más opciones", al final del grupo "Ayuda, ajustes y salir", lejos de "Salir
 
 ## 13. ACTUALIZAR LA APP
 
-Desde la versión 1.0.2, QC Sala te avisa sola cuando hay una versión nueva. Sale un cuadro con dos botones: toca "Actualizar", espera, y cuando Android pregunte "¿Deseas actualizar esta app?", toca "Actualizar" otra vez. La primera vez, la app te pide un permiso y te lleva al ajuste: enciende el interruptor de QC Sala y regresa. Si quieres buscarla tú, en "Ajustes de la app", en "Actualizaciones", toca "Buscar actualizaciones ahora".
+Desde la versión 1.0.2, QC Sala te avisa sola cuando hay una versión nueva: la busca al abrirla y cada tres horas mientras está abierta y conectada. Sale un cuadro con dos botones: toca "Actualizar", espera, y cuando Android pregunte "¿Deseas actualizar esta app?", toca "Actualizar" otra vez. La primera vez, la app te pide un permiso y te lleva al ajuste: enciende el interruptor de QC Sala y regresa. Si no quieres actualizar en ese momento, toca "Después": la app te vuelve a ofrecer la versión la próxima vez que la abras.
+
+Si la versión nueva sale mientras juegas, de fábrica la app te lo dice una sola vez y el cuadro sale cuando sales de la mesa. Si prefieres que salga al instante, cámbialo en "Ajustes de la app", en "Actualizaciones", con "Avisarme a media partida". Ojo: si actualizas en plena partida, Android cierra la app y sales de ella.
+
+Después de actualizar, la primera vez que abres la app sale un cuadro con las novedades de la versión. Toca "Volver al juego" (o "Cerrar", si no estás en la sala). Para volver a verlas, en "Actualizaciones" toca "Novedades de esta versión".
+
+Si quieres buscar la versión nueva tú, en "Ajustes de la app", en "Actualizaciones", toca "Buscar actualizaciones ahora".
 
 
 ## 14. A QUIÉN PEDIR AYUDA

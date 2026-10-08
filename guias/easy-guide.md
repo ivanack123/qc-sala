@@ -1,6 +1,6 @@
 # QC SALA EASY GUIDE
 
-For version 1.0.3 of the app.
+For version 1.0.4 of the app.
 
 This guide is short and simple. Each part has a number and a title. The steps tell you what to do and, often, what you’ll hear.
 
@@ -15,7 +15,7 @@ This guide is short and simple. Each part has a number and a title. The steps te
 
 ## 1. BEFORE YOU START: INSTALLING THE APP
 
-If QC Sala isn’t on your phone yet, you need to install it first. The app comes in a file called QC-Sala-1.0.3.apk.
+If QC Sala isn’t on your phone yet, you need to install it first. The app comes in a file called QC-Sala-1.0.4.apk.
 
 Another guide, the Installation Guide, explains step by step how to install it: it’s the file [INSTALLATION GUIDE](installation-guide.md). If you find it hard, ask someone you trust to help you with that part.
 
@@ -151,6 +151,7 @@ These gestures work with direct touch on. Do them anywhere on the playroom scree
 11. You can rest a finger on the screen while you think: nothing happens. If you then swipe, the swipe counts.
 12. Two-finger hold: keep two fingers still for a moment and lift them (the phone vibrates gently when you can). "Game gestures" opens, with everything you can do in that game and what each gesture does.
 13. Two strokes in a row with one finger, without lifting it: down then left is Back, like the phone’s Back button. Down then right, done twice, opens your screen reader’s menu. The first time you hear “Your screen reader has the screen: repeat the gesture”; the second time your screen reader does it.
+14. Two more one-finger gestures, also in two strokes in a row without lifting it: up then down takes you to the first item in the area (the first card or the first option); down then up takes you to the last. They also work in the history, to jump to the first or last message. Make each stroke long, like a normal swipe. If you were already on that item, you hear a stop sound.
 
 The first time you join each game, you hear: "Hold two fingers on the screen to learn this game’s gestures." That’s gesture 12.
 
@@ -274,7 +275,13 @@ In "More options", at the end of the "Help, settings and exit" group, far from "
 
 ## 13. KEEPING THE APP UP TO DATE
 
-Since version 1.0.2, QC Sala tells you by itself when there’s a new version. A dialog appears with two buttons: tap "Update", wait, and when Android asks "Do you want to update this app?", tap "Update" again. The first time, the app asks for one permission and takes you to the right setting: turn on the switch for QC Sala and go back. If you want to check yourself, in "App settings", under "Updates", tap "Check for updates now".
+Since version 1.0.2, QC Sala tells you by itself when there’s a new version: it checks when you open it and every three hours while it is open and connected. A dialog appears with two buttons: tap "Update", wait, and when Android asks "Do you want to update this app?", tap "Update" again. The first time, the app asks for one permission and takes you to the right setting: turn on the switch for QC Sala and go back. If you don’t want to update right then, tap "Later": the app offers you that version again the next time you open it.
+
+If the new version comes out while you’re playing, by default the app tells you once, by voice, and the dialog appears when you leave the table. If you’d rather have it right away, change it in "App settings", under "Updates", with "Notify me during a game". Careful: if you update in the middle of a game, Android closes the app and you leave the game.
+
+After updating, the first time you open the app a dialog shows what’s new in that version. Tap "Back to the game" (or "Close" if you’re not in the playroom). To see it again, under "Updates" tap "What’s new in this version".
+
+If you want to check yourself, in "App settings", under "Updates", tap "Check for updates now".
 
 
 ## 14. WHO TO ASK FOR HELP

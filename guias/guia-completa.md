@@ -1,6 +1,6 @@
 # GUÍA COMPLETA DE QC SALA
 
-Versión de la app: 1.0.3. Guía escrita en octubre de 2026.
+Versión de la app: 1.0.4. Guía escrita en octubre de 2026.
 
 Esta guía es para quien ya maneja bien su teléfono Android y su lector de pantalla. Cada parte empieza con un número y un título en mayúsculas, para que la encuentres con la búsqueda de tu lector o saltando de línea en línea. Si prefieres algo más sencillo, está la [GUÍA FÁCIL](guia-facil.md). Para instalar la app paso a paso, está la [GUÍA DE INSTALACIÓN](guia-instalacion.md).
 
@@ -35,7 +35,7 @@ Todo lo que hacen los gestos tiene también un botón.
 
 ## 3. INSTALAR LA APP
 
-QC Sala no está en la tienda de Google. Se instala con su archivo, QC-Sala-1.0.3.apk (unos 1,7 MB), que te pasa quien te la comparte. Los pasos completos, con los avisos que pueden salir de Android, de Samsung y de Play Protect, están en la [GUÍA DE INSTALACIÓN](guia-instalacion.md). En resumen:
+QC Sala no está en la tienda de Google. Se instala con su archivo, QC-Sala-1.0.4.apk (unos 1,7 MB), que te pasa quien te la comparte. Los pasos completos, con los avisos que pueden salir de Android, de Samsung y de Play Protect, están en la [GUÍA DE INSTALACIÓN](guia-instalacion.md). En resumen:
 
 1. Abre el archivo desde donde lo recibiste: WhatsApp, el navegador o la app de archivos.
 2. Si Android te pide permiso para instalar apps desde esa app, dáselo. Según el teléfono, la opción se llama "Confiar en esta fuente" o "Permitir de esta fuente". En Android 7 es un solo permiso para todo el teléfono, "Orígenes desconocidos", en los ajustes de "Seguridad".
@@ -263,6 +263,8 @@ Lo que sigue es lo de fábrica. Los gestos marcados como "del juego" cambian seg
 - **Un dedo abajo**: elemento siguiente de la zona.
 - **Un dedo a la izquierda**: zona anterior (en un tablero, primero va de columna en columna).
 - **Un dedo a la derecha**: zona siguiente (en un tablero, primero va de columna en columna).
+- **Un dedo arriba y luego abajo, sin levantarlo**: el primer elemento de la zona (la primera carta, la primera opción del menú, la primera de Opciones de juego). Si ya estabas ahí, suena el tope. En el historial, te lleva al primer mensaje de la vista. Cada trazo debe ser tan largo como un deslizamiento normal.
+- **Un dedo abajo y luego arriba, sin levantarlo**: el último elemento de la zona; en el historial, el último mensaje de la vista.
 - **Toque con un dedo**: repite el elemento actual (espera un instante por si haces un doble toque).
 - **Doble toque con un dedo**: jugar o confirmar.
 - **Mantener un dedo**: nada, en todos los juegos. Puedes dejar el dedo apoyado mientras piensas: no corta lo que dice la sala ni cancela una pregunta pendiente, y si luego deslizas, cuenta el deslizamiento. El menú contextual está en Más opciones, grupo Partida, y en el doble toque mantenido de tu lector sobre la zona.
@@ -310,7 +312,7 @@ Si tu lector deja de explorar la pantalla (por ejemplo, con el Modo de juego de 
 - Por esa espera, al jugar una carta con el doble toque no se dice la carta antes de jugarla. Por eso lo que hay que hacer rápido (decir "Uno", robar) va siempre en deslizamientos, que actúan en cuanto levantas los dedos.
 - Cuando un deslizamiento o un mantener actúa, el teléfono da una vibración corta, si tienes activada la vibración al tocar; los toques y dobles toques no vibran. Si un gesto no hace nada, suena el tope y la vibración es distinta (doble; larga en Android 10 o anterior).
 - Si haces una consulta, o el zumbador o el farol de Uno, y la sala no contesta nada en un segundo y medio, suena el tope (parte 12, "Cuando la sala no contesta").
-- Si tu lector pone su foco sobre la zona, dice "Zona de juego", la zona y el elemento. Su doble toque de siempre juega o elige ese elemento, su doble toque mantenido abre el menú contextual y, en sus acciones, puedes cambiar de zona y de elemento, abrir el chat o abrir Más opciones (por si no encuentras las esquinas).
+- Si tu lector pone su foco sobre la zona, dice "Zona de juego", la zona y el elemento. Su doble toque de siempre juega o elige ese elemento, su doble toque mantenido abre el menú contextual y, en sus acciones, puedes cambiar de zona y de elemento, ir al "Primer elemento de la zona" o al "Último elemento de la zona", abrir el chat o abrir Más opciones (por si no encuentras las esquinas).
 - Mientras el teclado en pantalla está abierto, la pantalla vuelve a ser de tu lector, para no estorbar al teclado: explora y encuentras la zona como un solo elemento (su doble toque juega o elige lo que tienes delante) y, con la navegación de siempre, el campo de chat. Al cerrarlo, la zona vuelve a recibir tus gestos y, si abriste el chat con su botón, vuelves a la zona donde estabas.
 - Dentro de un cuadro ("Gestos del juego", "Más", la ayuda rápida o los que manda el servidor), los gestos de la sala no hacen nada: usa los botones del cuadro. La ayuda rápida pedida desde el teléfono te lo dice arriba y se cierra con "Volver al juego" o con Atrás.
 - Los botones "Más opciones" y "Chat" de las esquinas de abajo quedan fuera de la zona: un gesto que empieza sobre ellos es de tu lector.
@@ -658,10 +660,12 @@ Volúmenes: sonido, notificaciones y música y flujos, cada uno con su barra y s
 
 ### Actualizaciones (entre Volúmenes y Avanzado):
 
-- Una línea con la versión que tienes: "Tienes la versión 1.0.3 de QC Sala."
-- Una explicación: una vez al día, QC Sala le pregunta a GitHub, el sitio donde se publica, si hay una versión nueva. Solo le dice el nombre de la app y su número de versión. No manda nada tuyo: ni tu cuenta ni datos del teléfono, como la versión de Android.
+- Una línea con la versión que tienes: "Tienes la versión 1.0.4 de QC Sala."
+- Una explicación: al abrir la app y luego cada tres horas mientras sigue abierta y conectada a la sala, QC Sala le pregunta a GitHub, el sitio donde se publica, si hay una versión nueva. Solo le dice el nombre de la app y su número de versión. No manda nada tuyo: ni tu cuenta ni datos del teléfono, como la versión de Android.
 - La casilla "Buscar actualizaciones". Viene encendida. Si la apagas, la app deja de preguntar sola.
 - El botón "Buscar actualizaciones ahora": revisa en ese momento, también con la casilla apagada, y te dice el resultado en un cuadro, aunque no haya nada nuevo (parte 26).
+- "Avisarme a media partida" (si sale una versión nueva mientras estás en una mesa), con dos opciones: "Al salir de la mesa" (así viene de fábrica: la app te lo dice de voz una sola vez y el cuadro sale cuando sales de la mesa) y "Al instante" (el cuadro sale aunque estés jugando; si actualizas en ese momento, Android cierra la app y sales de la partida).
+- El botón "Novedades de esta versión": vuelve a abrir el cuadro con lo nuevo de la versión que tienes (parte 26).
 
 Avanzado. Empieza con la nota "Lo de esta sección casi nunca hace falta cambiarlo.".
 
@@ -720,7 +724,7 @@ En una mesa, justo debajo, está la casilla "Aplicar los cambios en todos los ju
 
 Luego el cuadro explica cómo funciona y dice el juego de ahora. Debajo hay dos grupos de botones:
 
-- "En la zona de juego, con un dedo (con el toque directo)": los siete gestos de un dedo.
+- "En la zona de juego, con un dedo (con el toque directo)": los nueve gestos de un dedo.
 - **"Con dos y con tres dedos"**: los catorce gestos de dos y tres dedos.
 - "Gestos en ángulo" (al final): los ocho gestos de dos trazos seguidos con un dedo (parte 9). De fábrica, abajo y luego a la izquierda es Atrás y los otros siete devuelven la pantalla a tu lector.
 
@@ -813,9 +817,11 @@ Para reportar un fallo, enciende el registro de depuración (Ajustes, Avanzado, 
 
 ## 26. ACTUALIZAR LA APP
 
-Desde la versión 1.0.2, QC Sala se actualiza con su propio botón: no hace falta que te manden el archivo ni abrirlo a mano. Una vez al día, la app le pregunta a GitHub, la página donde se publica, si hay una versión nueva. Esa consulta solo lleva el nombre de la app y su número de versión.
+Desde la versión 1.0.2, QC Sala se actualiza con su propio botón: no hace falta que te manden el archivo ni abrirlo a mano. La app le pregunta a GitHub, la página donde se publica, si hay una versión nueva: al abrirla y luego cada tres horas mientras sigue abierta y conectada a la sala. Esa consulta solo lleva el nombre de la app y su número de versión.
 
-Cuando hay una versión nueva, sale un cuadro llamado "Hay una versión nueva de QC Sala". Oirás el número de la versión nueva y el de la que tienes ("Versión 1.0.3. Tienes la 1.0.3."), cuánto pesa la descarga y las novedades. Tiene dos botones: "Actualizar" y "Ahora no". Con "Ahora no", el cuadro se cierra y no vuelve a salir por esa versión hasta el día siguiente.
+Cuando hay una versión nueva, sale un cuadro llamado "Hay una versión nueva de QC Sala". Oirás el número de la versión nueva y el de la que tienes ("Versión 1.0.4. Tienes la 1.0.3."), cuánto pesa la descarga y las novedades. Tiene dos botones, que están arriba, justo después del número de versión y el tamaño, y no se cortan aunque tengas el teléfono acostado o la letra muy grande: "Actualizar" y "Después". Las novedades van debajo y salen en el idioma de tu app. Con "Después", el cuadro se cierra y la app no te vuelve a ofrecer esa versión mientras siga abierta; te la ofrece otra vez la próxima vez que la abras.
+
+**Si sale mientras juegas.** Depende de Ajustes, Actualizaciones, "Avisarme a media partida". De fábrica ("Al salir de la mesa"), la app te dice de voz una sola vez "Hay una versión nueva de QC Sala. Te la ofrezco al salir de la mesa." y el cuadro sale cuando sales de la mesa, sin interrumpir tu partida. Con "Al instante", el cuadro sale aunque estés jugando y te avisa que, si actualizas en ese momento, Android cierra QC Sala y sales de la partida.
 
 ### Pasos para actualizar:
 
@@ -824,7 +830,7 @@ Cuando hay una versión nueva, sale un cuadro llamado "Hay una versión nueva de
 3. La app dice "Descargando la versión nueva" y te avisa cómo va, al 25, al 50 y al 75 por ciento. No tienes que mirar la barra.
 4. Al terminar, la app revisa que el archivo sea de verdad QC Sala. Luego se abre el instalador de Android, el de siempre. Oirás "¿Deseas actualizar esta app?", con los botones "Cancelar" y "Actualizar". Toca "Actualizar". En Android 10 el texto es un poco distinto y el botón se llama "Instalar".
 5. Puede salir el aviso de Play Protect, igual que en la primera instalación. Haz lo mismo que entonces: "Más detalles", "Instalar sin analizar" y tu PIN si lo pide (la guía de instalación lo explica en su parte 5).
-6. Al terminar, Android cierra QC Sala. Ábrela otra vez desde su ícono y te dice que ya se actualizó.
+6. Al terminar, Android cierra QC Sala. Ábrela otra vez desde su ícono: sale un cuadro con las novedades de esa versión y el botón "Volver al juego" (o "Cerrar", si no estás en la sala). Sale una sola vez por versión; para volver a verlo, en Ajustes, en Actualizaciones, toca "Novedades de esta versión".
 
 Se conservan tu sesión, tus ajustes, tus gestos y el toque directo encendido, también en Android 14.
 

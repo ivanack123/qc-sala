@@ -1,6 +1,6 @@
 # GUIDE D’INSTALLATION DE QC SALA
 
-Version de l’appli : 1.0.3. Guide rédigé en octobre 2026.
+Version de l’appli : 1.0.4. Guide rédigé en octobre 2026.
 
 QC Sala est une appli non officielle pour jouer au Salon de QuentinC (qcsalon.net) avec votre lecteur d’écran. Elle n’est pas disponible sur Google Play : elle s’installe à partir d’un fichier. Ce guide vous accompagne pas à pas, du moment où vous recevez le fichier jusqu’à votre arrivée dans le Salon, et vous dit ce que vous entendrez sur chaque écran.
 
@@ -19,7 +19,7 @@ En toute transparence : ce guide est nouveau et n’a pas encore été testé d
 
 1. Un téléphone sous Android 7 ou version ultérieure. L’appli fonctionne sur les téléphones 32 bits comme sur les 64 bits.
 2. Pour le toucher direct, Android 11 ou version ultérieure. Le toucher direct permet de jouer en balayant avec un doigt tout l’écran du Salon (partie 8). Sous Android 7 à 10, vous pouvez aussi jouer : le Salon s’utilise avec la navigation habituelle de votre lecteur d’écran, les gestes à deux et trois doigts et les boutons.
-3. Le fichier de l’appli : QC-Sala-1.0.3.apk. Il pèse environ 4,6 Mo. Les fichiers dont le nom se termine par .apk sont des applis Android.
+3. Le fichier de l’appli : QC-Sala-1.0.4.apk. Il pèse environ 1,7 Mo. Les fichiers dont le nom se termine par .apk sont des applis Android.
 4. Le code PIN, le schéma ou le mot de passe qui déverrouille votre téléphone, si vous en avez un. Android vous le demande à certaines étapes.
 5. Votre nom d’utilisateur et votre mot de passe qcsalon.net. Si vous n’avez pas de compte, l’appli propose un bouton pour en créer un (partie 6).
 6. Une connexion Internet, en Wi-Fi ou en données mobiles.
@@ -55,7 +55,7 @@ Il y a deux chemins : le chemin A, si vous avez reçu le fichier par WhatsApp, 
 ### Chemin A, par WhatsApp :
 
 1. Ouvrez la discussion dans laquelle vous avez reçu le fichier.
-2. Cherchez le message qui contient le fichier « QC-Sala-1.0.3.apk ».
+2. Cherchez le message qui contient le fichier « QC-Sala-1.0.4.apk ».
 3. Appuyez dessus. S’il doit d’abord être téléchargé, attendez la fin du téléchargement et appuyez de nouveau dessus.
 4. Android affiche un avertissement au sujet de l’installation d’applis inconnues. Passez à la partie 4.
 
@@ -63,11 +63,11 @@ Si WhatsApp n’ouvre pas le fichier, demandez un lien de téléchargement à la
 
 ### Chemin B, avec un lien :
 
-1. Appuyez sur le lien. Votre navigateur télécharge le fichier « QC-Sala-1.0.3.apk ».
+1. Appuyez sur le lien. Votre navigateur télécharge le fichier « QC-Sala-1.0.4.apk ».
 2. Si le navigateur vous demande si vous voulez vraiment le télécharger, confirmez. Ne le faites que si le lien vous a été envoyé par une personne de confiance.
 3. Une fois le téléchargement terminé, ouvrez l’appli de gestion des fichiers du téléphone. Sur Samsung, elle s’appelle « Mes fichiers » ; sur d’autres téléphones, « Fichiers », « Files » ou un nom proche.
 4. Ouvrez le dossier « Téléchargements ». Sur certains téléphones, ce dossier s’ouvre tout seul.
-5. Appuyez sur le fichier « QC-Sala-1.0.3.apk ».
+5. Appuyez sur le fichier « QC-Sala-1.0.4.apk ».
 6. Android affiche un avertissement au sujet de l’installation d’applis inconnues. Passez à la partie 4.
 
 
@@ -225,18 +225,20 @@ En attendant, QC Sala fonctionne sans le toucher direct : le Salon s’utilise 
 
 Une nouvelle version de QC Sala s’installe toujours par-dessus celle que vous avez. Ne désinstallez pas l’ancienne : la désinstallation efface vos paramètres, et il faudrait réactiver le toucher direct et redonner les autorisations.
 
-Depuis la version 1.0.2, l’appli vous prévient d’elle-même quand une nouvelle version existe et se met à jour avec son propre bouton. Une fois par jour, elle demande à GitHub, le site où elle est publiée, s’il y en a une ; cette demande ne contient que le nom de l’appli et son numéro de version. La méthode à la main, avec le fichier, fonctionne toujours, et c’est celle qu’il vous faut si votre version est antérieure à la 1.0.3.
+Depuis la version 1.0.2, l’appli vous prévient d’elle-même quand une nouvelle version existe et se met à jour avec son propre bouton. Elle demande à GitHub, le site où elle est publiée, s’il y en a une : à l’ouverture, puis toutes les trois heures tant qu’elle reste ouverte et connectée au Salon ; cette demande ne contient que le nom de l’appli et son numéro de version. La méthode à la main, avec le fichier, fonctionne toujours, et c’est celle qu’il vous faut si votre version est antérieure à la 1.0.3.
 
 ### Avec le bouton de l’appli (depuis la version 1.0.2) :
 
-1. Quand une nouvelle version existe, une fenêtre intitulée « Une nouvelle version de QC Sala est disponible » apparaît. Vous entendrez le numéro de la nouvelle version et celui de la vôtre, le poids du téléchargement et les nouveautés. Appuyez sur « Mettre à jour ». Avec « Pas maintenant », la fenêtre se ferme et ne revient pas pour cette version avant le lendemain.
+1. Quand une nouvelle version existe, une fenêtre intitulée « Une nouvelle version de QC Sala est disponible » apparaît. Vous entendrez le numéro de la nouvelle version et celui de la vôtre, le poids du téléchargement et les nouveautés. Appuyez sur « Mettre à jour ». Avec « Plus tard », la fenêtre se ferme et l’appli vous reproposera cette version la prochaine fois que vous l’ouvrirez.
 2. La première fois, Android demande que vous autorisiez QC Sala à installer des applis. Une fenêtre intitulée « Il manque une autorisation » apparaît. Appuyez sur « Ouvrir les paramètres », activez l’interrupteur de QC Sala et revenez dans l’appli : le téléchargement démarre tout seul.
 3. Patientez. L’appli dit « Téléchargement de la nouvelle version » et vous prévient à 25 %, 50 % et 75 %. Puis elle vérifie que le fichier est bien QC Sala.
 4. L’installateur d’Android s’ouvre. Vous entendrez « Voulez-vous mettre à jour cette appli ? », avec les boutons « Annuler » et « Mettre à jour ». Appuyez sur « Mettre à jour » (sous Android 10, sur le bouton pour installer).
 5. Si Play Protect s’affiche, faites comme dans la partie 5 : « Plus de détails », « Installer sans analyser » et votre code PIN s’il est demandé.
-6. Une fois terminé, Android ferme QC Sala. Rouvrez-la depuis son icône.
+6. Une fois terminé, Android ferme QC Sala. Rouvrez-la depuis son icône : une fenêtre présente les nouveautés de cette version. Appuyez sur « Retour au jeu » (ou « Fermer » si vous n’êtes pas dans le Salon). Pour la revoir, dans les Paramètres de QC Sala, section « Mises à jour », appuyez sur « Nouveautés de cette version ».
 
 Si, sur un Samsung, l’installation n’avance pas, désactivez le Bloqueur automatique (partie 2) et réessayez. Si vous voulez vérifier vous-même, sans attendre l’avis, ouvrez les Paramètres de QC Sala et, dans la section « Mises à jour », appuyez sur « Rechercher les mises à jour maintenant ».
+
+Si la nouvelle version sort pendant que vous êtes à une table, par défaut l’appli vous le dit une fois à voix haute, et la fenêtre apparaît quand vous quittez la table. Si vous préférez l’avoir tout de suite, changez-le dans les Paramètres de QC Sala, section « Mises à jour », avec « Me prévenir en pleine partie » ; attention : si vous mettez à jour en pleine partie, Android ferme l’appli et vous quittez la partie.
 
 ### À la main, avec le fichier :
 

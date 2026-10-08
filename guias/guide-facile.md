@@ -1,6 +1,6 @@
 # GUIDE FACILE DE QC SALA
 
-Pour la version 1.0.3 de l’appli.
+Pour la version 1.0.4 de l’appli.
 
 Ce guide est court et simple. Chaque partie a un numéro et un titre. Les étapes indiquent ce qu’il faut faire et, souvent, ce que vous allez entendre.
 
@@ -15,7 +15,7 @@ Ce guide est court et simple. Chaque partie a un numéro et un titre. Les étape
 
 ## 1. AVANT DE COMMENCER : INSTALLER L’APPLI
 
-Si QC Sala n’est pas encore sur votre téléphone, il faut d’abord l’installer. L’appli se présente sous la forme d’un fichier appelé QC-Sala-1.0.3.apk.
+Si QC Sala n’est pas encore sur votre téléphone, il faut d’abord l’installer. L’appli se présente sous la forme d’un fichier appelé QC-Sala-1.0.4.apk.
 
 L’installation, étape par étape, est expliquée dans un autre guide, le Guide d’installation : c’est le fichier « GUIDE D'INSTALLATION de QC Sala.txt ». Si c’est difficile pour vous, demandez à une personne de confiance de vous aider pour cette partie.
 
@@ -151,6 +151,7 @@ Ces gestes fonctionnent avec le toucher direct activé. Faites-les n’importe o
 11. Vous pouvez laisser un doigt posé sur l’écran pendant que vous réfléchissez : il ne se passe rien. Si vous balayez ensuite, le balayage compte.
 12. Maintenir deux doigts immobiles un moment puis les lever (une légère vibration vous indique quand les lever) : la fenêtre « Gestes du jeu » s’ouvre, avec tout ce que vous pouvez faire dans ce jeu et ce que fait chaque geste.
 13. Deux traits à la suite avec un doigt, sans le lever : vers le bas puis vers la gauche, c’est Retour, comme le bouton Retour du téléphone. Vers le bas puis vers la droite, deux fois de suite, ouvre le menu de votre lecteur d’écran. La première fois, vous entendez « Écran rendu à votre lecteur : refaites le geste » ; la deuxième fois, votre lecteur l’exécute.
+14. Deux autres gestes à un doigt, aussi en deux traits à la suite sans le lever : vers le haut puis vers le bas, vous allez au premier élément de la zone (la première carte ou la première option) ; vers le bas puis vers le haut, au dernier. Ils fonctionnent aussi dans l’historique, pour aller au premier ou au dernier message. Faites chaque trait long, comme un balayage normal. Si vous étiez déjà sur cet élément, vous entendez une butée.
 
 La première fois que vous entrez dans chaque jeu, vous entendez : « Maintenez deux doigts sur l’écran pour découvrir les gestes de ce jeu. » C’est le geste 12.
 
@@ -274,7 +275,13 @@ Dans « Plus d’options », à la fin du groupe « Aide, paramètres et sort
 
 ## 13. METTRE L’APPLI À JOUR
 
-Depuis la version 1.0.2, QC Sala vous prévient d’elle-même quand une nouvelle version existe. Une fenêtre s’ouvre avec deux boutons : appuyez sur « Mettre à jour », patientez, et quand Android demande « Voulez-vous mettre à jour cette appli ? », appuyez de nouveau sur « Mettre à jour ». La première fois, l’appli vous demande une autorisation et vous conduit au bon paramètre : activez l’interrupteur de QC Sala et revenez. Si vous voulez vérifier vous-même, dans « Paramètres de l’appli », sous « Mises à jour », appuyez sur « Rechercher les mises à jour maintenant ».
+Depuis la version 1.0.2, QC Sala vous prévient d’elle-même quand une nouvelle version existe : elle la cherche à l’ouverture, puis toutes les trois heures tant qu’elle est ouverte et connectée. Une fenêtre s’ouvre avec deux boutons : appuyez sur « Mettre à jour », patientez, et quand Android demande « Voulez-vous mettre à jour cette appli ? », appuyez de nouveau sur « Mettre à jour ». La première fois, l’appli vous demande une autorisation et vous conduit au bon paramètre : activez l’interrupteur de QC Sala et revenez. Si vous ne voulez pas mettre à jour tout de suite, appuyez sur « Plus tard » : l’appli vous reproposera cette version la prochaine fois que vous l’ouvrirez.
+
+Si la nouvelle version sort pendant que vous jouez, par défaut l’appli vous le dit une fois à voix haute, et la fenêtre apparaît quand vous quittez la table. Si vous préférez l’avoir tout de suite, changez-le dans « Paramètres de l’appli », sous « Mises à jour », avec « Me prévenir en pleine partie ». Attention : si vous mettez à jour en pleine partie, Android ferme l’appli et vous quittez la partie.
+
+Après une mise à jour, la première fois que vous ouvrez l’appli, une fenêtre présente les nouveautés de la version. Appuyez sur « Retour au jeu » (ou « Fermer » si vous n’êtes pas dans le Salon). Pour les revoir, sous « Mises à jour », appuyez sur « Nouveautés de cette version ».
+
+Si vous voulez vérifier vous-même, dans « Paramètres de l’appli », sous « Mises à jour », appuyez sur « Rechercher les mises à jour maintenant ».
 
 
 ## 14. À QUI DEMANDER DE L’AIDE

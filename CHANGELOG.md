@@ -4,6 +4,20 @@ QC Sala es una app no oficial para Android, hecha para jugar en la Sala de Juego
 
 El número de versión tiene tres partes: la primera sube con un gran salto, la segunda con funciones nuevas y la tercera con correcciones pequeñas.
 
+## Versión 1.0.4 (7 de octubre de 2026)
+
+### Novedades
+
+- Gesto nuevo para ir al primer o al último elemento de la zona de juego. Con un dedo, hacia arriba y, sin levantarlo, hacia abajo: te lleva al primer elemento (la primera carta, la primera opción del menú). Hacia abajo y luego hacia arriba: te lleva al último. También sirve en el historial, donde te lleva al primer o al último mensaje de la vista, y está entre las acciones del lector de la zona de juego ("Primer elemento de la zona" y "Último elemento de la zona"). Puedes cambiarlo en Personalizar gestos, como los demás. (Idea de Mortaccio.)
+- Después de actualizar, la primera vez que abres la app sale un cuadro con las novedades de esa versión, con el botón "Volver al juego" (o "Cerrar", si no estás en la sala). En Ajustes, en Actualizaciones, el botón "Novedades de esta versión" las vuelve a abrir. (Idea de Iván.)
+- La app busca versión nueva al abrirla y cada tres horas mientras está abierta y conectada (antes, una vez al día). Y hay un ajuste nuevo en Ajustes, en Actualizaciones: "Avisarme a media partida". Con "Al salir de la mesa" (así viene de fábrica), la app te dice de voz una sola vez que hay versión nueva y el cuadro sale cuando sales de la mesa. Con "Al instante", el cuadro sale aunque estés jugando; al actualizar, Android cierra la app y sales de la partida. (Idea de Iván.)
+
+### Cambios
+
+- El botón "Ahora no" del cuadro "Hay una versión nueva" ahora se llama "Después", y la próxima vez que abras la app te vuelve a ofrecer esa versión.
+- El cuadro "Hay una versión nueva" ya no deja botones cortados con el teléfono acostado o con la letra grande.
+- Las novedades de ese cuadro salen en el idioma de tu app.
+
 ## Versión 1.0.3 (7 de octubre de 2026)
 
 ### Cambios
@@ -197,6 +211,14 @@ La primera versión para compartir con amigos. Es un archivo APK de unos 4,7 MB,
 
 ## In English
 
+### Version 1.0.4 (October 7, 2026)
+
+- New gesture to jump to the first or last item of the game area. With one finger, swipe up and, without lifting it, back down: you go to the first item. Swipe down and then back up: you go to the last one. It also works in the history (first and last message of the view) and it is among the screen reader actions of the game area ("First item in the area" and "Last item in the area"). You can change it in Customize gestures, like the others. (Idea by Mortaccio.)
+- After updating, the first time you open the app a dialog shows what's new in that version, with a "Back to the game" button (or "Close" when you're not in the playroom). In Settings, under Updates, the "What's new in this version" button opens it again. (Idea by Iván.)
+- The app now checks for a new version when you open it and every three hours while it is open and connected (before: once a day). There is also a new setting in Settings, under Updates: "Notify me during a game". With "When you leave the table" (the default), the app tells you by voice, once, that a new version is out, and the dialog appears when you leave the table. With "Right away", the dialog appears even while you're playing; when you update, Android closes the app and you leave the game. (Idea by Iván.)
+- The "Not now" button in the "A new version is available" dialog is now called "Later", and the next time you open the app it offers that version again.
+- The "A new version is available" dialog no longer cuts off buttons with the phone in landscape or with large text, and its notes appear in your app's language.
+
 ### Version 1.0.3 (October 7, 2026)
 
 - The app is almost three times smaller (from about 4.7 MB to 1.7 MB), better protected inside, and works the same. Your settings and gestures are kept when you update.
@@ -218,6 +240,14 @@ La primera versión para compartir con amigos. Es un archivo APK de unos 4,7 MB,
 - Extra safety: the app never follows a redirect that could send your pass to another server.
 
 ## En français
+
+### Version 1.0.4 (7 octobre 2026)
+
+- Nouveau geste pour aller au premier ou au dernier élément de la zone de jeu. Avec un doigt, balayez vers le haut puis, sans le lever, vers le bas : vous allez au premier élément. Vers le bas puis vers le haut : vous allez au dernier. Il fonctionne aussi dans l’historique (premier et dernier message de la vue) et fait partie des actions du lecteur d’écran de la zone de jeu (« Premier élément de la zone » et « Dernier élément de la zone »). Vous pouvez le modifier dans Personnaliser les gestes, comme les autres. (Idée de Mortaccio.)
+- Après une mise à jour, la première fois que vous ouvrez l’appli, une fenêtre présente les nouveautés de cette version, avec le bouton « Retour au jeu » (ou « Fermer » si vous n’êtes pas dans le Salon). Dans les Paramètres, section Mises à jour, le bouton « Nouveautés de cette version » la rouvre. (Idée d’Iván.)
+- L’appli cherche maintenant une nouvelle version à son ouverture, puis toutes les trois heures tant qu’elle est ouverte et connectée (avant : une fois par jour). Un nouveau réglage apparaît aussi dans les Paramètres, section Mises à jour : « Me prévenir en pleine partie ». Avec « En quittant la table » (réglage par défaut), l’appli vous annonce à voix haute, une seule fois, qu’une nouvelle version existe, et la fenêtre apparaît quand vous quittez la table. Avec « Tout de suite », la fenêtre apparaît même pendant que vous jouez ; en cas de mise à jour, Android ferme l’appli et vous quittez la partie. (Idée d’Iván.)
+- Le bouton « Pas maintenant » de la fenêtre « Une nouvelle version est disponible » s’appelle désormais « Plus tard », et la prochaine fois que vous ouvrez l’appli, elle vous propose de nouveau cette version.
+- La fenêtre « Une nouvelle version est disponible » ne coupe plus de boutons quand le téléphone est à l’horizontale ou que la police est grande, et ses notes s’affichent dans la langue de votre appli.
 
 ### Version 1.0.3 (7 octobre 2026)
 
