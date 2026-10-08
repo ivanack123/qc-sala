@@ -1,6 +1,6 @@
 # QC SALA EASY GUIDE
 
-For version 1.0.4 of the app.
+For version 1.0.5 of the app.
 
 This guide is short and simple. Each part has a number and a title. The steps tell you what to do and, often, what you’ll hear.
 
@@ -15,7 +15,7 @@ This guide is short and simple. Each part has a number and a title. The steps te
 
 ## 1. BEFORE YOU START: INSTALLING THE APP
 
-If QC Sala isn’t on your phone yet, you need to install it first. The app comes in a file called QC-Sala-1.0.4.apk.
+If QC Sala isn’t on your phone yet, you need to install it first. The app comes in a file called QC-Sala-1.0.5.apk.
 
 Another guide, the Installation Guide, explains step by step how to install it: it’s the file [INSTALLATION GUIDE](installation-guide.md). If you find it hard, ask someone you trust to help you with that part.
 
@@ -213,6 +213,13 @@ With direct touch, all of that is in "More options", the button in the bottom-le
 6. To leave More options, use the phone’s Back button. You return to where you were.
 
 The gestures for playing, like drawing with a two-finger swipe down, also work inside More options.
+
+Two options in More options worth knowing:
+
+- "Audio sample" (only at a table, in the "Table and playroom" group): it lets the whole table hear a radio station or an audio file. If you're the table master, the playroom asks you for the link; everyone else turns it on or off with the same option.
+- "Volumes" (in the "Help, settings and exit" group): it opens a dialog with three sliders: sounds, notifications, and music and streams. Raise or lower them with your screen reader's gesture for that, and the "Close" button takes you back to the game.
+
+If you like, you can put either one on a gesture, in "Customize gestures" (same "Help, settings and exit" group). There are also actions there to switch to the next volume, raise it and lower it.
 
 
 ## 10. WRITING IN THE CHAT

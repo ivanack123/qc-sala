@@ -1,6 +1,6 @@
 # GUÍA COMPLETA DE QC SALA
 
-Versión de la app: 1.0.4. Guía escrita en octubre de 2026.
+Versión de la app: 1.0.5. Guía escrita en octubre de 2026.
 
 Esta guía es para quien ya maneja bien su teléfono Android y su lector de pantalla. Cada parte empieza con un número y un título en mayúsculas, para que la encuentres con la búsqueda de tu lector o saltando de línea en línea. Si prefieres algo más sencillo, está la [GUÍA FÁCIL](guia-facil.md). Para instalar la app paso a paso, está la [GUÍA DE INSTALACIÓN](guia-instalacion.md).
 
@@ -35,7 +35,7 @@ Todo lo que hacen los gestos tiene también un botón.
 
 ## 3. INSTALAR LA APP
 
-QC Sala no está en la tienda de Google. Se instala con su archivo, QC-Sala-1.0.4.apk (unos 1,7 MB), que te pasa quien te la comparte. Los pasos completos, con los avisos que pueden salir de Android, de Samsung y de Play Protect, están en la [GUÍA DE INSTALACIÓN](guia-instalacion.md). En resumen:
+QC Sala no está en la tienda de Google. Se instala con su archivo, QC-Sala-1.0.5.apk (unos 1,7 MB), que te pasa quien te la comparte. Los pasos completos, con los avisos que pueden salir de Android, de Samsung y de Play Protect, están en la [GUÍA DE INSTALACIÓN](guia-instalacion.md). En resumen:
 
 1. Abre el archivo desde donde lo recibiste: WhatsApp, el navegador o la app de archivos.
 2. Si Android te pide permiso para instalar apps desde esa app, dáselo. Según el teléfono, la opción se llama "Confiar en esta fuente" o "Permitir de esta fuente". En Android 7 es un solo permiso para todo el teléfono, "Orígenes desconocidos", en los ajustes de "Seguridad".
@@ -187,9 +187,9 @@ Con tu lector normal (sin el toque directo), no hay esquinas: la barra de botone
 - **"Más"**: abre un cuadro con el estado de la conexión en el título y sus opciones en grupos con encabezado, para saltar de uno a otro:
   - **Conexión**: "Volver a conectar", cuando la conexión está detenida o esperando para reintentar.
   - **Juego**: en una mesa, primero "Salir de la mesa" (parte 25); luego los botones que no caben en la barra compacta y "Ayuda rápida del juego" (parte 14).
-  - **Mesa y sala**: "Escribir de nuevo un mensaje que enviaste" (parte 17), "Gestión de la mesa", "Funcionalidades y más" (el menú de la sala con tu bandeja de entrada, tus amigos y los usuarios bloqueados), "Opciones de tu cuenta", "Actualizar la sala (si algo no está al día)", "Usuarios conectados" y "Lista de amigos".
+  - **Mesa y sala**: "Escribir de nuevo un mensaje que enviaste" (parte 17), "Gestión de la mesa", "Muestra de audio" (solo en una mesa; parte 19), "Funcionalidades y más" (el menú de la sala con tu bandeja de entrada, tus amigos y los usuarios bloqueados), "Opciones de tu cuenta", "Actualizar la sala (si algo no está al día)", "Usuarios conectados" y "Lista de amigos".
   - **Historial**: "Ver el historial", "Mensaje anterior del historial", "Mensaje siguiente del historial", "Ir al principio del historial", "Ir al final del historial", "Repetir el último mensaje", "Abrir los enlaces del mensaje", "Qué recorre el historial: …" (abre la lista de las vistas) y "Borrar el historial", que pregunta antes.
-  - **Ayuda, ajustes y salir**: "Ayuda de gestos", "Ajustes de la app" y "Salir de la sala", que pregunta antes.
+  - **Ayuda, ajustes y salir**: "Ayuda de gestos", "Volúmenes" (parte 19), "Ajustes de la app" y "Salir de la sala", que pregunta antes.
 
 Los elementos del menú del juego. Una pulsación larga sobre un elemento (o el doble toque mantenido de tu lector) abre sus acciones: el menú contextual del juego, deslizar a cada lado y mover el elemento sobre otro, según lo que permita el juego. Esas mismas acciones están en las acciones de tu lector sobre el elemento. Un deslizador (un valor que sube y baja) se cambia en un cuadro con barra, botones "Menos" y "Más" y el número.
 
@@ -222,9 +222,9 @@ Más opciones se abre siempre en su primera opción, no en la última que visita
 ### Los cuatro grupos, en orden:
 
 - **Partida**: "Salir de la mesa" (solo en una mesa, y entonces es la primera; parte 25), "Estado de la conexión: …" (su doble toque lo repite), "Volver a conectar" (solo si la conexión se detuvo o espera para reintentar), "Gestos del juego", "Jugar o confirmar", el botón de dos dedos abajo (solo cuando la app sabe el juego y ese gesto hace algo en él, con el nombre de lo que hace: en Uno, "Robar"), "Menú contextual" y "Atrás en el menú del juego" (regresa en el menú del juego y te deja en Más opciones).
-- **Mesa y sala**: "Escribir en el chat" (lo mismo que el botón "Chat"), "Escribir de nuevo un mensaje que enviaste" (parte 17), "Ayuda rápida del juego" (dicha con tus gestos, parte 14), "Gestión de la mesa", "Funcionalidades y más", "Opciones de tu cuenta", "Actualizar la sala (si algo no está al día)", "Usuarios conectados" y "Lista de amigos".
+- **Mesa y sala**: "Escribir en el chat" (lo mismo que el botón "Chat"), "Escribir de nuevo un mensaje que enviaste" (parte 17), "Ayuda rápida del juego" (dicha con tus gestos, parte 14), "Gestión de la mesa", "Muestra de audio" (solo en una mesa, parte 19), "Funcionalidades y más", "Opciones de tu cuenta", "Actualizar la sala (si algo no está al día)", "Usuarios conectados" y "Lista de amigos".
 - **Historial**: "Qué recorre el historial: …" (cada doble toque pasa a la vista siguiente y te la dice), "Ir al principio del historial", "Ir al final del historial", "Mensaje anterior del historial", "Mensaje siguiente del historial", "Repetir el último mensaje", "Abrir los enlaces del mensaje" (parte 18), "Ver el historial" y "Borrar el historial".
-- **Ayuda, ajustes y salir**: "Mi lector ya lee la zona de juego: quitar la protección" (solo si hace falta, parte 23), "Salir de la sala", "Ayuda de gestos", "Personalizar gestos", "Ajustes de la app" y, al final, lejos de la salida, "Cerrar sesión en qcsalon.net".
+- **Ayuda, ajustes y salir**: "Mi lector ya lee la zona de juego: quitar la protección" (solo si hace falta, parte 23), "Salir de la sala", "Ayuda de gestos", "Personalizar gestos", "Volúmenes" (parte 19), "Ajustes de la app" y, al final, lejos de la salida, "Cerrar sesión en qcsalon.net".
 
 Salir de la sala, cerrar tu sesión y borrar el historial preguntan antes con un cuadro Sí o No, con el "No" ya marcado; salir de la mesa pregunta una sola vez, la app o la sala (parte 25). Al contestar "Sí" a salir de la sala, la app se cierra por completo, como el programa de la computadora: se va el aviso fijo "Conectado a la sala", desaparece de las apps recientes y vuelves a donde estabas en el teléfono. Tu sesión se conserva: la pregunta lo dice ("La app se cerrará; tu sesión se conserva.") y, la próxima vez que abras QC Sala, entras directo, sin escribir tu usuario ni tu contraseña. Es igual si sales con la opción "¡Salir de la sala de juegos!" del menú principal de la sala o con un gesto al que le diste "Salir de la sala". Si la conexión se cae sin que lo pidas, la app no se cierra: sigue intentando volver a conectar. "Cerrar sesión en qcsalon.net" sí regresa a la pantalla de entrada y olvida tu cuenta. Si la lista cambia mientras estás en ella (al saberse el juego entra el botón de dos dedos abajo; al volver la conexión sale "Volver a conectar"), sigues en la misma opción. Si la que oíste ya no está, el doble toque no hace nada: suena el tope y oyes en cuál quedaste.
 
@@ -596,6 +596,22 @@ Hay tres grupos de volumen, como en la página web: sonido (100 de fábrica), no
 
 Los botones de volumen del teléfono mueven el volumen multimedia, que es el de los sonidos de la sala.
 
+### Volúmenes sin salir de la sala:
+
+Los mismos tres grupos se mueven sin ir a Ajustes. En Más opciones, grupo "Ayuda, ajustes y salir", justo antes de "Ajustes de la app", está "Volúmenes": abre un cuadro con las tres barras (sonido, notificaciones, y música y flujos) y el botón "Cerrar". Tu lector empieza en la primera barra; la subes o la bajas con su gesto de siempre, suena el "ding" de ese grupo y oyes el porcentaje, por ejemplo "50 %". Son las mismas barras de Ajustes, así que lo que cambies aquí se ve allá.
+
+Para no abrir nada, en "Personalizar gestos" hay tres acciones nuevas (de fábrica ningún gesto las trae): "Elegir el siguiente volumen" (salta entre sonido, notificaciones, y música y flujos, y te dice cuál es y su porcentaje), "Subir volumen" y "Bajar volumen" (mueven el elegido de 10 en 10, con su "ding" y el porcentaje). En 100 y en 0 suena el tope. Si ese grupo está en silencio, te lo dice. La app recuerda cuál elegiste mientras sigue abierta. "Volúmenes" también se puede poner en un gesto.
+
+### La muestra de audio de la mesa:
+
+Sirve para que toda la mesa oiga lo mismo: una radio o un archivo de audio. Está en Más opciones, grupo "Mesa y sala", justo después de "Gestión de la mesa" (con tu lector normal, en "Más", mismo grupo), y solo aparece dentro de una mesa.
+
+- Si eres el jefe de mesa, la sala te pide el enlace. Tiene que llevar directo al sonido: una radio, o un archivo de audio con enlace directo (por ejemplo, de Dropbox con dl.dropbox). Una página que pide tocar "Descargar" no sirve. Suena para toda la mesa. Si tocas la opción otra vez, la paras, y luego puedes poner otra.
+- Si no eres el jefe, la enciendes o la apagas con la misma opción.
+- Suena con el volumen de "música y flujos".
+- También se puede poner en un gesto, en Personalizar gestos. De fábrica ningún gesto la trae.
+- Las radios y las muestras con enlace http, sin cifrar, ahora suenan. La app prueba primero la versión cifrada y, si no abre en unos segundos, la otra. Solo se hace con radios y muestras de audio: todo lo demás sigue siempre cifrado.
+
 ### Más opciones de sonido en Ajustes:
 
 - **"Clic al moverte con los gestos"**: suena un clic al moverte por las cartas, las opciones y el historial, cuando el elemento no trae su propio sonido. Viene encendido.
@@ -660,7 +676,7 @@ Volúmenes: sonido, notificaciones y música y flujos, cada uno con su barra y s
 
 ### Actualizaciones (entre Volúmenes y Avanzado):
 
-- Una línea con la versión que tienes: "Tienes la versión 1.0.4 de QC Sala."
+- Una línea con la versión que tienes: "Tienes la versión 1.0.5 de QC Sala."
 - Una explicación: al abrir la app y luego cada tres horas mientras sigue abierta y conectada a la sala, QC Sala le pregunta a GitHub, el sitio donde se publica, si hay una versión nueva. Solo le dice el nombre de la app y su número de versión. No manda nada tuyo: ni tu cuenta ni datos del teléfono, como la versión de Android.
 - La casilla "Buscar actualizaciones". Viene encendida. Si la apagas, la app deja de preguntar sola.
 - El botón "Buscar actualizaciones ahora": revisa en ese momento, también con la casilla apagada, y te dice el resultado en un cuadro, aunque no haya nada nuevo (parte 26).
@@ -732,7 +748,9 @@ Cada botón dice el gesto, lo que hace ahora y de dónde sale: "lo del juego" (d
 
 Al tocar un botón se abre la lista de acciones. La primera es "Lo del juego (de fábrica)", que hace lo que haga ese gesto en el juego en que estés; luego "Nada" y todas las demás: "Atrás de Android", "Inicio de Android", "Apps recientes de Android", "Abrir las notificaciones", "Devolver la pantalla al lector", jugar o confirmar, robar, gestos del juego, menú contextual, el historial, moverte de zona y de elemento, callar la voz del lector, a quién le toca, puntos, quién está en la mesa, averiguar el juego, "Abrir el chat", "Abrir Más opciones" y otras.
 
-También puedes dar a un gesto cualquier opción de Más opciones (para todos los juegos o solo para uno, y también a los gestos en ángulo). Se llaman igual que allí: "Estado de la conexión", "Volver a conectar", "Atrás en el menú del juego", "Usuarios conectados", "Lista de amigos", "Salir de la mesa", "Ver el historial", "Cambiar la vista del historial", "Borrar el historial", "Escribir de nuevo un mensaje que enviaste", "Abrir los enlaces del mensaje", "Ayuda de gestos", "Personalizar gestos", "Ajustes de la app", quitar la protección de la zona, "Salir de la sala" y "Cerrar sesión en qcsalon.net". De fábrica ningún gesto las tiene: solo hacen algo si tú se las das. Hacen lo mismo que su opción y con las mismas preguntas: salir de la mesa, salir de la sala, borrar el historial y cerrar la sesión te preguntan antes. Si en ese momento no tiene caso, suena el tope y oyes por qué; por ejemplo, "Salir de la mesa" fuera de una mesa dice "No estás en una mesa.", y "Volver a conectar" con la conexión en marcha dice "No hace falta volver a conectar.". Quitar la protección de la zona solo se hace desde Más opciones, para no hacerlo por error: si se lo das a un gesto, la app te dice que no.
+También puedes dar a un gesto cualquier opción de Más opciones (para todos los juegos o solo para uno, y también a los gestos en ángulo). Se llaman igual que allí: "Estado de la conexión", "Volver a conectar", "Atrás en el menú del juego", "Usuarios conectados", "Lista de amigos", "Salir de la mesa", "Ver el historial", "Cambiar la vista del historial", "Borrar el historial", "Escribir de nuevo un mensaje que enviaste", "Abrir los enlaces del mensaje", "Ayuda de gestos", "Personalizar gestos", "Muestra de audio", "Volúmenes", "Ajustes de la app", quitar la protección de la zona, "Salir de la sala" y "Cerrar sesión en qcsalon.net". De fábrica ningún gesto las tiene: solo hacen algo si tú se las das. Hacen lo mismo que su opción y con las mismas preguntas: salir de la mesa, salir de la sala, borrar el historial y cerrar la sesión te preguntan antes. Si en ese momento no tiene caso, suena el tope y oyes por qué; por ejemplo, "Salir de la mesa" y "Muestra de audio" fuera de una mesa dicen "No estás en una mesa.", y "Volver a conectar" con la conexión en marcha dice "No hace falta volver a conectar.". Quitar la protección de la zona solo se hace desde Más opciones, para no hacerlo por error: si se lo das a un gesto, la app te dice que no.
+
+Para los volúmenes hay además tres acciones que no son opciones de Más opciones y que de fábrica ningún gesto tiene: "Elegir el siguiente volumen", "Subir volumen" y "Bajar volumen" (parte 19).
 
 Qué manda en cada gesto: lo que elegiste solo para ese juego; si no hay, lo que elegiste para todos los juegos; y si tampoco, lo del juego. Dentro de un juego, elegir lo mismo que vale para todos quita lo propio de ese juego. Lo que personalizaste antes de que existiera esta opción vale en todos los juegos. Una acción que no existe en un juego no hace nada en él.
 
@@ -807,7 +825,7 @@ Para reportar un fallo, enciende el registro de depuración (Ajustes, Avanzado, 
 ## 25. SALIR
 
 - **Salir de la mesa**: con el toque directo, abre Más opciones: en una mesa siempre se abre en "Salir de la mesa", así que basta el doble toque. Con tu lector normal, es la primera opción de "Más", grupo Juego. Fuera de una mesa no aparece. Funciona aunque el menú del juego busque por letras.
-  Pregunta una sola vez. Si la partida ya empezó, en Mesa libre (que nunca empieza) o si la app no sabe si empezó, la app no pregunta: manda la salida y pregunta la sala ("¿Está seguro de querer salir de la mesa?", Sí o No; con la sala en otro idioma, en ese idioma). Antes de empezar, donde la sala saca sin preguntar, pregunta la app ("¿Seguro que quieres salir de la mesa?"), con el "No" ya marcado. En Cartas vs Humanidad, desde su aviso de entrada, la app elige "prefiero abandonar esta mesa", porque ahí la salida normal no sirve.
+  Pregunta una sola vez. Si la partida ya empezó, en Mesa libre (que nunca empieza, y tampoco si reabres la app estando en ella) o si la app no sabe si empezó, la app no pregunta: manda la salida y pregunta la sala ("¿Está seguro de querer salir de la mesa?", Sí o No; con la sala en otro idioma, en ese idioma). Antes de empezar, donde la sala saca sin preguntar, pregunta la app ("¿Seguro que quieres salir de la mesa?"), con el "No" ya marcado. En Cartas vs Humanidad, desde su aviso de entrada, la app elige "prefiero abandonar esta mesa", porque ahí la salida normal no sirve.
   Al mandar la salida, Más opciones se cierra y oyes "Saliendo de la mesa."; la pregunta de la sala llega a la zona Juego, donde haces tu doble toque. Mientras la sala contesta (como mucho un segundo), el doble toque no juega nada, solo suena el tope: así un temblor no juega la carta que quedó delante. Si contestas "No", sigues en tu mesa con los gestos de tu juego.
 - **Salir de la sala**: "Salir de la sala". En Más opciones está en el grupo "Ayuda, ajustes y salir", donde es la primera opción (salvo cuando aparece antes "Mi lector ya lee la zona de juego: quitar la protección"). En "Más" es la última de ese mismo grupo. Pregunta antes y, al contestar "Sí", cierra la app por completo y conserva tu sesión: la próxima vez entras directo.
 - **Cerrar tu sesión**: "Cerrar sesión en qcsalon.net", en Ajustes o al final del grupo "Ayuda, ajustes y salir" de Más opciones, lejos de "Salir de la sala". Pregunta antes, con el "No" ya marcado.
@@ -819,7 +837,7 @@ Para reportar un fallo, enciende el registro de depuración (Ajustes, Avanzado, 
 
 Desde la versión 1.0.2, QC Sala se actualiza con su propio botón: no hace falta que te manden el archivo ni abrirlo a mano. La app le pregunta a GitHub, la página donde se publica, si hay una versión nueva: al abrirla y luego cada tres horas mientras sigue abierta y conectada a la sala. Esa consulta solo lleva el nombre de la app y su número de versión.
 
-Cuando hay una versión nueva, sale un cuadro llamado "Hay una versión nueva de QC Sala". Oirás el número de la versión nueva y el de la que tienes ("Versión 1.0.4. Tienes la 1.0.3."), cuánto pesa la descarga y las novedades. Tiene dos botones, que están arriba, justo después del número de versión y el tamaño, y no se cortan aunque tengas el teléfono acostado o la letra muy grande: "Actualizar" y "Después". Las novedades van debajo y salen en el idioma de tu app. Con "Después", el cuadro se cierra y la app no te vuelve a ofrecer esa versión mientras siga abierta; te la ofrece otra vez la próxima vez que la abras.
+Cuando hay una versión nueva, sale un cuadro llamado "Hay una versión nueva de QC Sala". Oirás el número de la versión nueva y el de la que tienes ("Versión 1.0.5. Tienes la 1.0.4."), cuánto pesa la descarga y las novedades. Tiene dos botones, que están arriba, justo después del número de versión y el tamaño, y no se cortan aunque tengas el teléfono acostado o la letra muy grande: "Actualizar" y "Después". Las novedades van debajo y salen en el idioma de tu app. Con "Después", el cuadro se cierra y la app no te vuelve a ofrecer esa versión mientras siga abierta; te la ofrece otra vez la próxima vez que la abras.
 
 **Si sale mientras juegas.** Depende de Ajustes, Actualizaciones, "Avisarme a media partida". De fábrica ("Al salir de la mesa"), la app te dice de voz una sola vez "Hay una versión nueva de QC Sala. Te la ofrezco al salir de la mesa." y el cuadro sale cuando sales de la mesa, sin interrumpir tu partida. Con "Al instante", el cuadro sale aunque estés jugando y te avisa que, si actualizas en ese momento, Android cierra QC Sala y sales de la partida.
 

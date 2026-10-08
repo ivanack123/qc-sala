@@ -1,6 +1,6 @@
 # GUÍA FÁCIL DE QC SALA
 
-Para la versión 1.0.4 de la app.
+Para la versión 1.0.5 de la app.
 
 Esta guía es corta y sencilla. Cada parte tiene un número y un título. Los pasos dicen qué hacer y, muchas veces, qué vas a oír.
 
@@ -15,7 +15,7 @@ Esta guía es corta y sencilla. Cada parte tiene un número y un título. Los pa
 
 ## 1. ANTES DE EMPEZAR: INSTALAR LA APP
 
-Si QC Sala todavía no está en tu teléfono, primero hay que instalarla. La app viene en un archivo que se llama QC-Sala-1.0.4.apk.
+Si QC Sala todavía no está en tu teléfono, primero hay que instalarla. La app viene en un archivo que se llama QC-Sala-1.0.5.apk.
 
 Cómo instalarla, paso a paso, lo explica otra guía, la Guía de instalación: es el archivo [GUÍA DE INSTALACIÓN](guia-instalacion.md). Si te cuesta, pide a alguien de confianza que te ayude con esa parte.
 
@@ -213,6 +213,13 @@ Con el toque directo, todo eso está en "Más opciones", el botón de la esquina
 6. Para salir de Más opciones, usa el botón Atrás del teléfono. Regresas a donde estabas.
 
 Los gestos para jugar, como robar con dos dedos hacia abajo, también funcionan dentro de Más opciones.
+
+Dos opciones de Más opciones que conviene conocer:
+
+- "Muestra de audio" (solo dentro de una mesa, en el grupo "Mesa y sala"): sirve para que toda la mesa oiga una radio o un audio. Si eres el jefe de mesa, la sala te pide el enlace; los demás la encienden o la apagan con la misma opción.
+- "Volúmenes" (en el grupo "Ayuda, ajustes y salir"): abre un cuadro con tres barras: sonido, notificaciones, y música y flujos. Las subes o las bajas con el gesto de tu lector para eso, y el botón "Cerrar" te regresa al juego.
+
+Si quieres, puedes poner cualquiera de las dos en un gesto, en "Personalizar gestos" (mismo grupo "Ayuda, ajustes y salir"). Ahí también hay acciones para elegir el siguiente volumen, subirlo y bajarlo.
 
 
 ## 10. ESCRIBIR EN EL CHAT

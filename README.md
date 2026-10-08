@@ -16,7 +16,7 @@ Nada de una página web metida en una app: QC Sala está hecha desde cero para e
 
 ## ⬇️ Descárgala
 
-1. **[Baja aquí la última versión (QC-Sala-1.0.4.apk)](https://github.com/ivanack123/qc-sala/releases/latest)**. Pesa unos 1,7 MB.
+1. **[Baja aquí la última versión (QC-Sala-1.0.5.apk)](https://github.com/ivanack123/qc-sala/releases/latest)**. Pesa unos 1,7 MB.
 2. Sigue la **[guía de instalación](guias/guia-instalacion.md)**, paso por paso, con todos los avisos que te puede poner Android, Samsung y Play Protect. Como la app no viene de la tienda de Google, Android pregunta un par de cosas de más. No te espantes: la guía te lleva de la mano.
 3. Ya instalada, **la app te avisa sola cuando saque una versión nueva** y la actualiza con un par de toques, sin perder tu sesión ni tus ajustes. Además, después de actualizar te cuenta las novedades de la versión.
 
@@ -36,6 +36,8 @@ Nada de una página web metida en una app: QC Sala está hecha desde cero para e
 - **Historial** de todo lo que dice la sala, con sus vistas (todo, juego, chat, privados y más), para repasar lo que te perdiste.
 - **Chat** a un toque, en la esquina de abajo a la derecha.
 - **Más opciones** en la esquina de abajo a la izquierda: salir de la mesa, gestión de la mesa, amigos, bandeja de entrada y todo lo demás. Y cualquiera de esas cosas la puedes poner en un gesto.
+- **Muestra de audio.** Dentro de una mesa, el jefe de mesa pone el enlace de una radio o de un audio, y los demás de la mesa lo encienden o lo apagan. Las radios con enlace http, sin cifrar, también suenan.
+- **Volúmenes rápidos.** Las tres barras de volumen (sonido, notificaciones, y música y flujos) en un cuadro de Más opciones, sin salir de la sala, y acciones para subir, bajar y elegir el volumen con un gesto.
 - **Sigue conectada con la pantalla apagada**, para esperar tu turno con el teléfono en la mesa. La app te dice cómo dejarlo listo.
 - **Tres idiomas:** español, inglés y francés, según el idioma de tu teléfono.
 - **Accesible para todos:** alto contraste, letra grande, nada que parpadee y un doble toque que puedes hacer más rápido o más lento.

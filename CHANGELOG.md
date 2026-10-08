@@ -4,6 +4,18 @@ QC Sala es una app no oficial para Android, hecha para jugar en la Sala de Juego
 
 El número de versión tiene tres partes: la primera sube con un gran salto, la segunda con funciones nuevas y la tercera con correcciones pequeñas.
 
+## Versión 1.0.5 (8 de octubre de 2026)
+
+### Novedades
+
+- Muestra de audio de la mesa. Dentro de una mesa, en Más opciones, grupo "Mesa y sala", justo después de "Gestión de la mesa", está la opción nueva "Muestra de audio". Si eres el jefe de mesa, la sala te pide un enlace: una radio o un archivo de audio con enlace directo (por ejemplo, de Dropbox con dl.dropbox; una página que pide tocar "Descargar" no sirve). Los demás de la mesa la encienden o la apagan con la misma opción. El jefe, si la toca otra vez, la para y puede poner otra. Suena con el volumen de "música y flujos". También se puede poner en un gesto, en Personalizar gestos (de fábrica ningún gesto la trae). (Idea de Un_Duendementor.)
+- Volúmenes sin salir de la sala. En Más opciones, grupo "Ayuda, ajustes y salir", justo antes de "Ajustes de la app", está "Volúmenes": abre un cuadro con las tres barras (sonido, notificaciones, y música y flujos) que subes o bajas con el gesto de tu lector, y el botón "Cerrar". Y hay tres acciones nuevas para tus gestos, en Personalizar gestos (de fábrica ningún gesto las trae): "Elegir el siguiente volumen" (salta entre sonido, notificaciones, y música y flujos, y te dice cuál es y su porcentaje), "Subir volumen" y "Bajar volumen" (de 10 en 10). (Idea de Un_Duendementor.)
+- Las radios y las muestras de audio con enlaces http, sin cifrar, ahora suenan (antes no). La app intenta primero la versión cifrada y, si no abre en unos segundos, la otra. Solo se hace con radios y muestras de audio: todo lo demás sigue siempre cifrado.
+
+### Cambios
+
+- Si la app se vuelve a abrir estando dentro de una mesa libre, al salir de la mesa ya no pregunta dos veces.
+
 ## Versión 1.0.4 (7 de octubre de 2026)
 
 ### Novedades
@@ -211,6 +223,13 @@ La primera versión para compartir con amigos. Es un archivo APK de unos 4,7 MB,
 
 ## In English
 
+### Version 1.0.5 (October 8, 2026)
+
+- New: the table's audio sample. At a table, in More options, in the "Table and playroom" group, right after "Table management", there is a new "Audio sample" option. If you are the table master, the playroom asks you for a link: a radio station or an audio file with a direct link (for example from Dropbox with dl.dropbox; a page that asks you to tap "Download" won't work). Everyone else at the table turns it on or off with the same option. If the master taps it again, it stops, and the master can set another. It plays at the "music and streams" volume. You can also put it on a gesture, in Customize gestures (no gesture has it by default). (Idea by Un_Duendementor.)
+- New: volumes without leaving the playroom. In More options, in the "Help, settings and exit" group, right before "App settings", there is "Volumes": it opens a dialog with the three sliders (sounds, notifications, and music and streams), which you raise or lower with your screen reader's gesture, and a "Close" button. There are also three new actions for your gestures, in Customize gestures (no gesture has them by default): "Switch to the next volume" (it jumps between sounds, notifications, and music and streams, and tells you which one it is and its percentage), "Volume up" and "Volume down" (in steps of 10). (Idea by Un_Duendementor.)
+- Radio stations and audio samples with http links, unencrypted, now play (before, they didn't). The app tries the encrypted version first and, if it doesn't open within a few seconds, the other one. This is only done for radio stations and audio samples: everything else stays encrypted, always.
+- Fix: if the app is reopened while you are at a free table, leaving the table no longer asks twice.
+
 ### Version 1.0.4 (October 7, 2026)
 
 - New gesture to jump to the first or last item of the game area. With one finger, swipe up and, without lifting it, back down: you go to the first item. Swipe down and then back up: you go to the last one. It also works in the history (first and last message of the view) and it is among the screen reader actions of the game area ("First item in the area" and "Last item in the area"). You can change it in Customize gestures, like the others. (Idea by Mortaccio.)
@@ -240,6 +259,13 @@ La primera versión para compartir con amigos. Es un archivo APK de unos 4,7 MB,
 - Extra safety: the app never follows a redirect that could send your pass to another server.
 
 ## En français
+
+### Version 1.0.5 (8 octobre 2026)
+
+- Nouveau : le flux audio de la table. À une table, dans « Plus d’options », groupe « Table et Salon », juste après « Gestion de la table », se trouve la nouvelle option « Flux audio ». Si vous êtes le chef de table, le Salon vous demande un lien : une radio ou un fichier audio avec un lien direct (par exemple de Dropbox avec dl.dropbox ; une page qui demande d’appuyer sur « Télécharger » ne convient pas). Les autres joueurs de la table l’activent ou la coupent avec la même option. Si le chef de table appuie de nouveau dessus, le flux s’arrête, et il peut en proposer un autre. Il est joué au volume « musique et flux ». Vous pouvez aussi le mettre sur un geste, dans Personnaliser les gestes (aucun geste ne l’a par défaut). (Idée de Un_Duendementor.)
+- Nouveau : les volumes sans quitter le Salon. Dans « Plus d’options », groupe « Aide, paramètres et sortie », juste avant « Paramètres de l’appli », se trouve « Volumes » : une fenêtre avec les trois barres (son, notifications, et musique et flux), que vous montez ou baissez avec le geste de votre lecteur d’écran, et un bouton « Fermer ». Il y a aussi trois nouvelles actions pour vos gestes, dans Personnaliser les gestes (aucun geste ne les a par défaut) : « Passer au volume suivant » (elle passe du son aux notifications, puis à musique et flux, et vous dit lequel c’est et son pourcentage), « Monter le volume » et « Baisser le volume » (par pas de 10). (Idée de Un_Duendementor.)
+- Les radios et les flux audio dont le lien commence par http, sans chiffrement, se font maintenant entendre (avant, non). L’appli essaie d’abord la version chiffrée et, si elle ne s’ouvre pas en quelques secondes, l’autre. Cela ne vaut que pour les radios et les flux audio : tout le reste reste toujours chiffré.
+- Correction : si l’appli est rouverte alors que vous êtes à une table libre, quitter la table ne pose plus la question deux fois.
 
 ### Version 1.0.4 (7 octobre 2026)
 

@@ -1,6 +1,6 @@
 # GUIDE FACILE DE QC SALA
 
-Pour la version 1.0.4 de l’appli.
+Pour la version 1.0.5 de l’appli.
 
 Ce guide est court et simple. Chaque partie a un numéro et un titre. Les étapes indiquent ce qu’il faut faire et, souvent, ce que vous allez entendre.
 
@@ -15,7 +15,7 @@ Ce guide est court et simple. Chaque partie a un numéro et un titre. Les étape
 
 ## 1. AVANT DE COMMENCER : INSTALLER L’APPLI
 
-Si QC Sala n’est pas encore sur votre téléphone, il faut d’abord l’installer. L’appli se présente sous la forme d’un fichier appelé QC-Sala-1.0.4.apk.
+Si QC Sala n’est pas encore sur votre téléphone, il faut d’abord l’installer. L’appli se présente sous la forme d’un fichier appelé QC-Sala-1.0.5.apk.
 
 L’installation, étape par étape, est expliquée dans un autre guide, le Guide d’installation : c’est le fichier « GUIDE D'INSTALLATION de QC Sala.txt ». Si c’est difficile pour vous, demandez à une personne de confiance de vous aider pour cette partie.
 
@@ -213,6 +213,13 @@ Avec le toucher direct, tout cela se trouve dans « Plus d’options », le bo
 6. Pour sortir de « Plus d’options », utilisez le bouton Retour du téléphone. Vous revenez là où vous étiez.
 
 Les gestes pour jouer, comme piocher avec un balayage à deux doigts vers le bas, fonctionnent aussi dans « Plus d’options ».
+
+Deux options de « Plus d’options » à connaître :
+
+- « Flux audio » (seulement à une table, dans le groupe « Table et Salon ») : elle permet à toute la table d’entendre une radio ou un fichier audio. Si vous êtes le chef de table, le Salon vous demande le lien ; les autres l’activent ou la coupent avec la même option.
+- « Volumes » (dans le groupe « Aide, paramètres et sortie ») : elle ouvre une fenêtre avec trois barres : son, notifications, et musique et flux. Montez-les ou baissez-les avec le geste de votre lecteur d’écran prévu pour cela, et le bouton « Fermer » vous ramène au jeu.
+
+Si vous le souhaitez, vous pouvez mettre l’une ou l’autre sur un geste, dans « Personnaliser les gestes » (même groupe « Aide, paramètres et sortie »). Il y a aussi là des actions pour passer au volume suivant, le monter et le baisser.
 
 
 ## 10. ÉCRIRE DANS LE CHAT
