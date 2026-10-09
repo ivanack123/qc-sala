@@ -1,6 +1,6 @@
 # QC SALA INSTALLATION GUIDE
 
-App version: 1.0.5. Guide written in October 2026.
+App version: 1.0.6. Guide written in October 2026.
 
 QC Sala is an unofficial app for playing at QuentinC’s Playroom (qcsalon.net) with your screen reader. It isn’t on the Google Play Store: you install it from a file. This guide walks you through it step by step, from the moment you receive the file until you’re in and playing, and tells you what you’ll hear on each screen.
 
@@ -19,7 +19,7 @@ An honest note: this guide is new and hasn’t yet been tested from start to fin
 
 1. A phone with Android 7 or later. It works on both 32-bit and 64-bit phones.
 2. For direct touch, Android 11 or later. Direct touch lets you play by swiping one finger anywhere on the playroom screen (part 8). With Android 7 to 10 you can still play: you use the playroom with your screen reader’s usual navigation, the two- and three-finger gestures, and the buttons.
-3. The app file: QC-Sala-1.0.5.apk. It’s about 1.7 MB. Files ending in .apk are Android apps.
+3. The app file: QC-Sala-1.0.6.apk. It’s about 1.7 MB. Files ending in .apk are Android apps.
 4. The PIN, pattern or password you use to unlock your phone, if you have one. Android asks for it in some steps.
 5. Your qcsalon.net username and password. If you don’t have an account, the app has a button to create one (part 6).
 6. An internet connection, over Wi-Fi or mobile data.
@@ -55,7 +55,7 @@ There are two ways: option A, if you got the file on WhatsApp, and option B, if 
 ### Option A, on WhatsApp:
 
 1. Open the chat where you got the file.
-2. Find the message with the file "QC-Sala-1.0.5.apk".
+2. Find the message with the file "QC-Sala-1.0.6.apk".
 3. Tap it. If it has to download first, wait for it to finish and tap it again.
 4. Android shows you a message about installing unknown apps. Continue with part 4.
 
@@ -63,11 +63,11 @@ If WhatsApp won’t open the file, ask the person who sent it for a download lin
 
 ### Option B, with a link:
 
-1. Tap the link. Your browser downloads the file "QC-Sala-1.0.5.apk".
+1. Tap the link. Your browser downloads the file "QC-Sala-1.0.6.apk".
 2. If your browser asks whether you really want to download it, confirm. Only do this if the link came from someone you trust.
 3. When the download finishes, open your phone’s file manager app. On Samsung phones it’s called "My Files"; on other phones, "Files" or something similar.
 4. Go into the "Downloads" folder. On some phones that folder opens by itself.
-5. Tap the file "QC-Sala-1.0.5.apk".
+5. Tap the file "QC-Sala-1.0.6.apk".
 6. Android shows you a message about installing unknown apps. Continue with part 4.
 
 

@@ -1,6 +1,6 @@
 # GUIDE FACILE DE QC SALA
 
-Pour la version 1.0.5 de l’appli.
+Pour la version 1.0.6 de l’appli.
 
 Ce guide est court et simple. Chaque partie a un numéro et un titre. Les étapes indiquent ce qu’il faut faire et, souvent, ce que vous allez entendre.
 
@@ -15,7 +15,7 @@ Ce guide est court et simple. Chaque partie a un numéro et un titre. Les étape
 
 ## 1. AVANT DE COMMENCER : INSTALLER L’APPLI
 
-Si QC Sala n’est pas encore sur votre téléphone, il faut d’abord l’installer. L’appli se présente sous la forme d’un fichier appelé QC-Sala-1.0.5.apk.
+Si QC Sala n’est pas encore sur votre téléphone, il faut d’abord l’installer. L’appli se présente sous la forme d’un fichier appelé QC-Sala-1.0.6.apk.
 
 L’installation, étape par étape, est expliquée dans un autre guide, le Guide d’installation : c’est le fichier « GUIDE D'INSTALLATION de QC Sala.txt ». Si c’est difficile pour vous, demandez à une personne de confiance de vous aider pour cette partie.
 
@@ -111,6 +111,16 @@ Si, dans la fenêtre « Toucher direct », vous avez appuyé sur « Pas maint
 
 Avec le toucher direct activé, tout l’écran du Salon sert à jouer avec vos doigts. Votre lecteur d’écran garde la main sur la barre du bas du téléphone (Retour, Accueil et Applis récentes) et sur deux boutons placés dans les coins du bas, « Plus d’options » et « Chat » (partie 7).
 
+
+### Si votre banque ne s’ouvre pas
+
+Certaines banques, comme Nu, refusent d’ouvrir leur appli tant que le toucher direct est activé. Elles le prennent pour une appli espionne. Ce n’est pas le cas : QC Sala ne peut ni voir ni toucher ce qu’il y a dans les autres applis, car son service n’a pas l’autorisation de lire les autres fenêtres. Les banques voient seulement qu’un service d’accessibilité est activé.
+
+Que faire : désactivez le toucher direct avant d’ouvrir votre banque, puis réactivez-le quand vous voulez jouer. Vous avez trois moyens :
+
+1. La case. Dans « Paramètres de l’appli », juste sous « Activer le toucher direct », cochez « Désactiver le toucher direct en fermant l’appli ». Elle est décochée par défaut. Une fois cochée, le toucher direct se désactive tout seul quand vous fermez vraiment QC Sala : avec « Quitter le Salon », avec Retour depuis le premier écran de l’appli ou en la retirant des applis récentes. Quand vous revenez dans le Salon, l’appli vous propose de le réactiver. Si vous changez simplement d’appli sans fermer QC Sala, il reste activé.
+2. Le bouton des réglages rapides d’Android (le panneau qui s’ouvre en balayant depuis le haut de l’écran). Il s’appelle « QC Sala : toucher direct ». Si le toucher direct est activé, un appui le désactive ; s’il est désactivé, le bouton vous amène à son interrupteur, car Android ne permet pas à une appli d’activer elle-même son service. Pour l’y placer, dans « Paramètres de l’appli », appuyez sur « Ajouter le toucher direct aux réglages rapides » (Android 13 ou plus récent ; sous Android 11 et 12, l’appli explique comment l’ajouter à la main).
+3. Les paramètres d’accessibilité d’Android. Désactivez-y « QC Sala : toucher direct », comme vous l’avez activé.
 
 ## 7. À QUOI RESSEMBLE L’ÉCRAN DU SALON
 

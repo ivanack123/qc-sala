@@ -1,6 +1,6 @@
 # GUÍA COMPLETA DE QC SALA
 
-Versión de la app: 1.0.5. Guía escrita en octubre de 2026.
+Versión de la app: 1.0.6. Guía escrita en octubre de 2026.
 
 Esta guía es para quien ya maneja bien su teléfono Android y su lector de pantalla. Cada parte empieza con un número y un título en mayúsculas, para que la encuentres con la búsqueda de tu lector o saltando de línea en línea. Si prefieres algo más sencillo, está la [GUÍA FÁCIL](guia-facil.md). Para instalar la app paso a paso, está la [GUÍA DE INSTALACIÓN](guia-instalacion.md).
 
@@ -35,7 +35,7 @@ Todo lo que hacen los gestos tiene también un botón.
 
 ## 3. INSTALAR LA APP
 
-QC Sala no está en la tienda de Google. Se instala con su archivo, QC-Sala-1.0.5.apk (unos 1,7 MB), que te pasa quien te la comparte. Los pasos completos, con los avisos que pueden salir de Android, de Samsung y de Play Protect, están en la [GUÍA DE INSTALACIÓN](guia-instalacion.md). En resumen:
+QC Sala no está en la tienda de Google. Se instala con su archivo, QC-Sala-1.0.6.apk (unos 1,7 MB), que te pasa quien te la comparte. Los pasos completos, con los avisos que pueden salir de Android, de Samsung y de Play Protect, están en la [GUÍA DE INSTALACIÓN](guia-instalacion.md). En resumen:
 
 1. Abre el archivo desde donde lo recibiste: WhatsApp, el navegador o la app de archivos.
 2. Si Android te pide permiso para instalar apps desde esa app, dáselo. Según el teléfono, la opción se llama "Confiar en esta fuente" o "Permitir de esta fuente". En Android 7 es un solo permiso para todo el teléfono, "Orígenes desconocidos", en los ajustes de "Seguridad".
@@ -82,12 +82,22 @@ Con él puedes jugar con un dedo: arriba y abajo recorres las cartas, a los lado
 
 Estos nombres son los de Android 15; en otras versiones y en otras marcas pueden cambiar un poco. Si la opción no aparece en el menú, pide ayuda a quien te instaló la app. Mientras tanto, la sala se usa igual con la navegación de siempre de tu lector y con los botones.
 
-**Para apagarlo.** Usa el botón "Desactivar el toque directo" de Ajustes, que te pregunta antes. No lo apagues con un atajo ni con el botón de accesibilidad mientras la sala está abierta: Android puede dejar casi toda la pantalla sin tu lector, también fuera de la sala y en otras apps. Lo más rápido es pulsar otra vez el mismo botón o atajo (el toque directo se enciende y suelta la pantalla) o reiniciar tu lector con su atajo. La parte 23 lo explica.
+**Para apagarlo.** Usa el botón "Desactivar el toque directo" de Ajustes, que te pregunta antes. No lo apagues con un atajo ni con el botón de accesibilidad mientras la sala está abierta: Android puede dejar casi toda la pantalla sin tu lector, también fuera de la sala y en otras apps. Lo más rápido es pulsar otra vez el mismo botón o atajo (el toque directo se enciende y suelta la pantalla) o reiniciar tu lector con su atajo. La parte 23 lo explica. Hay dos formas más de apagarlo: la casilla "Apagar el toque directo al cerrar la app", que lo apaga cuando cierras QC Sala, y el botón "QC Sala: toque directo" de los ajustes rápidos de Android (se explican abajo, en "Si tu banco no abre").
 
 Importante: el toque directo solo funciona si en Ajustes está marcada la casilla "Gestos de la sala". Viene marcada de fábrica.
 
 Después de actualizar a mano, en Android 14. Android apaga el toque directo cada vez que la app se actualiza desde un archivo. No es una falla de la app y no se puede evitar. Con el botón de actualizar de la propia app no pasa (parte 26). La primera vez que entras a la sala después de actualizar a mano, QC Sala lo nota y te dice qué pasó y cómo volver a encenderlo: ve a Ajustes de la app, toca "Activar el toque directo" y enciende el servicio como la primera vez (los pasos de arriba).
 
+
+### Si tu banco no abre:
+
+Algunos bancos, como Nu, no abren su app mientras el toque directo está encendido. Lo confunden con una app que espía. No lo es: QC Sala no puede ver ni tocar lo que hay en otras apps, porque su servicio no tiene permiso para leer otras ventanas. Los bancos solo ven que hay un servicio de accesibilidad encendido.
+
+Qué hacer: apaga el toque directo antes de abrir el banco y vuelve a encenderlo cuando quieras jugar. Tienes tres formas:
+
+1. La casilla. En "Ajustes de la app", justo debajo de "Activar el toque directo", marca "Apagar el toque directo al cerrar la app". Viene apagada de fábrica. Con ella marcada, el toque directo se apaga solo cuando cierras QC Sala de verdad: con "Salir de la sala", con Atrás desde la primera pantalla de la app o quitándola de Recientes. Al volver a la sala, la app te ofrece encenderlo. Si solo cambias de app sin cerrarla, sigue encendido.
+2. El botón de los ajustes rápidos de Android (el panel que se abre deslizando desde arriba). Se llama "QC Sala: toque directo". Si el toque directo está encendido, un toque lo apaga; si está apagado, te lleva a su interruptor, porque Android no deja que una app encienda sola su servicio. Para ponerlo ahí, en "Ajustes de la app" toca "Poner el toque directo en los ajustes rápidos" (Android 13 o más; en Android 11 y 12 la app te explica cómo agregarlo a mano).
+3. Los ajustes de accesibilidad de Android. Apaga ahí "QC Sala: toque directo", igual que lo encendiste.
 
 ## 5. ENTRAR CON TU CUENTA
 
@@ -654,6 +664,8 @@ Están en este orden: Lector de pantalla y gestos; Pantalla y movimiento; Volúm
 - Si Android puede dormir la app con la pantalla apagada (ahorro de batería, sobre todo en Samsung) y cortar tu conexión con la sala, esa parte lo dice: "Con la pantalla apagada, Android puede dormir QC Sala para ahorrar batería y cortar tu conexión con la sala." Debajo de lo de los avisos está el botón "Dejar que QC Sala siga conectada con la pantalla apagada". Al tocarlo, Android pregunta "¿Permitir que la app se ejecute siempre en segundo plano?": toca "Permitir". Después, Ajustes dice "Con la pantalla apagada, QC Sala sigue conectada a la sala." (parte 20).
 - Una línea dice qué lector detectó la app y si los gestos de dos dedos llegan con él.
 - El estado del toque directo y el botón "Activar el toque directo" o "Desactivar el toque directo".
+- **"Apagar el toque directo al cerrar la app"**: una casilla, justo debajo de ese botón, con su explicación encima. Viene apagada. Si la marcas, el toque directo se apaga solo cuando cierras QC Sala de verdad (con "Salir de la sala", con Atrás desde la primera pantalla de la app o quitándola de Recientes), y al volver a la sala la app te ofrece encenderlo. Cambiar de app sin cerrarla no lo apaga. Sirve para los bancos, como Nu, que no abren su app con el toque directo encendido (ver la parte 4).
+- **"Poner el toque directo en los ajustes rápidos"**: pone el botón "QC Sala: toque directo" en el panel que se abre deslizando desde arriba. Encendido, un toque lo apaga; apagado, te lleva a su interruptor. En Android 13 o más, Android te muestra un cuadro para confirmarlo; en Android 11 y 12, la app te explica cómo agregarlo a mano. Sin toque directo (antes de Android 11), este botón y la casilla no aparecen.
 - **"Gestos de la sala"**: enciende o apaga todos los gestos de la sala. Viene encendido.
 - "Personalizar gestos" (parte 22).
 - **"Ayuda de gestos"**: la ayuda completa, adaptada a tu lector y al juego de ahora.
@@ -676,7 +688,7 @@ Volúmenes: sonido, notificaciones y música y flujos, cada uno con su barra y s
 
 ### Actualizaciones (entre Volúmenes y Avanzado):
 
-- Una línea con la versión que tienes: "Tienes la versión 1.0.5 de QC Sala."
+- Una línea con la versión que tienes: "Tienes la versión 1.0.6 de QC Sala."
 - Una explicación: al abrir la app y luego cada tres horas mientras sigue abierta y conectada a la sala, QC Sala le pregunta a GitHub, el sitio donde se publica, si hay una versión nueva. Solo le dice el nombre de la app y su número de versión. No manda nada tuyo: ni tu cuenta ni datos del teléfono, como la versión de Android.
 - La casilla "Buscar actualizaciones". Viene encendida. Si la apagas, la app deja de preguntar sola.
 - El botón "Buscar actualizaciones ahora": revisa en ese momento, también con la casilla apagada, y te dice el resultado en un cuadro, aunque no haya nada nuevo (parte 26).
@@ -837,7 +849,7 @@ Para reportar un fallo, enciende el registro de depuración (Ajustes, Avanzado, 
 
 Desde la versión 1.0.2, QC Sala se actualiza con su propio botón: no hace falta que te manden el archivo ni abrirlo a mano. La app le pregunta a GitHub, la página donde se publica, si hay una versión nueva: al abrirla y luego cada tres horas mientras sigue abierta y conectada a la sala. Esa consulta solo lleva el nombre de la app y su número de versión.
 
-Cuando hay una versión nueva, sale un cuadro llamado "Hay una versión nueva de QC Sala". Oirás el número de la versión nueva y el de la que tienes ("Versión 1.0.5. Tienes la 1.0.4."), cuánto pesa la descarga y las novedades. Tiene dos botones, que están arriba, justo después del número de versión y el tamaño, y no se cortan aunque tengas el teléfono acostado o la letra muy grande: "Actualizar" y "Después". Las novedades van debajo y salen en el idioma de tu app. Con "Después", el cuadro se cierra y la app no te vuelve a ofrecer esa versión mientras siga abierta; te la ofrece otra vez la próxima vez que la abras.
+Cuando hay una versión nueva, sale un cuadro llamado "Hay una versión nueva de QC Sala". Oirás el número de la versión nueva y el de la que tienes ("Versión 1.0.6. Tienes la 1.0.5."), cuánto pesa la descarga y las novedades. Tiene dos botones, que están arriba, justo después del número de versión y el tamaño, y no se cortan aunque tengas el teléfono acostado o la letra muy grande: "Actualizar" y "Después". Las novedades van debajo y salen en el idioma de tu app. Con "Después", el cuadro se cierra y la app no te vuelve a ofrecer esa versión mientras siga abierta; te la ofrece otra vez la próxima vez que la abras.
 
 **Si sale mientras juegas.** Depende de Ajustes, Actualizaciones, "Avisarme a media partida". De fábrica ("Al salir de la mesa"), la app te dice de voz una sola vez "Hay una versión nueva de QC Sala. Te la ofrezco al salir de la mesa." y el cuadro sale cuando sales de la mesa, sin interrumpir tu partida. Con "Al instante", el cuadro sale aunque estés jugando y te avisa que, si actualizas en ese momento, Android cierra QC Sala y sales de la partida.
 

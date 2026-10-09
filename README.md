@@ -16,7 +16,7 @@ Nada de una página web metida en una app: QC Sala está hecha desde cero para e
 
 ## ⬇️ Descárgala
 
-1. **[Baja aquí la última versión (QC-Sala-1.0.5.apk)](https://github.com/ivanack123/qc-sala/releases/latest)**. Pesa unos 1,7 MB.
+1. **[Baja aquí la última versión (QC-Sala-1.0.6.apk)](https://github.com/ivanack123/qc-sala/releases/latest)**. Pesa unos 1,7 MB.
 2. Sigue la **[guía de instalación](guias/guia-instalacion.md)**, paso por paso, con todos los avisos que te puede poner Android, Samsung y Play Protect. Como la app no viene de la tienda de Google, Android pregunta un par de cosas de más. No te espantes: la guía te lleva de la mano.
 3. Ya instalada, **la app te avisa sola cuando saque una versión nueva** y la actualiza con un par de toques, sin perder tu sesión ni tus ajustes. Además, después de actualizar te cuenta las novedades de la versión.
 
@@ -38,6 +38,7 @@ Nada de una página web metida en una app: QC Sala está hecha desde cero para e
 - **Más opciones** en la esquina de abajo a la izquierda: salir de la mesa, gestión de la mesa, amigos, bandeja de entrada y todo lo demás. Y cualquiera de esas cosas la puedes poner en un gesto.
 - **Muestra de audio.** Dentro de una mesa, el jefe de mesa pone el enlace de una radio o de un audio, y los demás de la mesa lo encienden o lo apagan. Las radios con enlace http, sin cifrar, también suenan.
 - **Volúmenes rápidos.** Las tres barras de volumen (sonido, notificaciones, y música y flujos) en un cuadro de Más opciones, sin salir de la sala, y acciones para subir, bajar y elegir el volumen con un gesto.
+- **Para los bancos que se espantan.** Algunos, como Nu, no abren su app con el toque directo encendido (aunque QC Sala no puede ver ni tocar otras apps). En Ajustes hay una casilla para que se apague solo al cerrar QC Sala, y un botón para los ajustes rápidos de Android que lo apaga de un toque.
 - **Sigue conectada con la pantalla apagada**, para esperar tu turno con el teléfono en la mesa. La app te dice cómo dejarlo listo.
 - **Tres idiomas:** español, inglés y francés, según el idioma de tu teléfono.
 - **Accesible para todos:** alto contraste, letra grande, nada que parpadee y un doble toque que puedes hacer más rápido o más lento.
@@ -88,6 +89,7 @@ Hi, I'm **Iván**, a blind gamer from Mexico. I built **QC Sala**, a native Andr
 - **Direct touch:** the whole screen is your game area. Swipe to move, double-tap to play.
 - **Gestures for every game**, fully customizable, and your screen reader's own angle gestures keep working.
 - The playroom's own sounds, a history of everything said, chat, and everything from the desktop program.
+- Some banks, like Nu, won’t open with direct touch on (QC Sala can’t see or touch other apps). A Settings checkbox turns it off when you close the app, and a Quick Settings button turns it off in one tap.
 - The app is in **English, Spanish and French**.
 - The app tells you when there's a new version and installs it in a couple of taps. It only accepts updates signed with my key.
 - Your password is never stored. No ads, no tracking.
@@ -105,6 +107,7 @@ Bonjour, je suis **Iván**, un joueur aveugle du Mexique. J’ai créé **QC Sal
 - **Toucher direct :** tout l’écran devient la zone de jeu. Balayez pour vous déplacer, double appui pour jouer.
 - **Des gestes pour chaque jeu**, personnalisables, et les gestes en angle de votre lecteur d’écran fonctionnent toujours.
 - Les sons du Salon, l’historique de tout ce qui se dit, le chat et tout ce que fait le programme pour ordinateur.
+- Certaines banques, comme Nu, refusent de s’ouvrir avec le toucher direct activé (QC Sala ne peut ni voir ni toucher les autres applis). Une case des Paramètres le désactive à la fermeture de l’appli, et un bouton des réglages rapides le désactive d’un appui.
 - L’appli est en **français, espagnol et anglais**.
 - L’appli vous prévient quand une nouvelle version sort et l’installe en quelques appuis. Elle n’accepte que les mises à jour signées avec ma clé.
 - Votre mot de passe n’est jamais enregistré. Pas de pub, pas de pistage.

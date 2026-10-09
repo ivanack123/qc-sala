@@ -4,6 +4,17 @@ QC Sala es una app no oficial para Android, hecha para jugar en la Sala de Juego
 
 El número de versión tiene tres partes: la primera sube con un gran salto, la segunda con funciones nuevas y la tercera con correcciones pequeñas.
 
+## Versión 1.0.6 (9 de octubre de 2026)
+
+### Novedades
+
+- Casilla nueva en Ajustes, debajo de "Activar el toque directo": "Apagar el toque directo al cerrar la app". Algunos bancos, como Nu, no abren su app mientras el servicio "QC Sala: toque directo" está encendido, porque lo confunden con una app que espía. QC Sala no puede ver ni tocar otras apps: su servicio no tiene permiso para leer otras ventanas. La casilla viene apagada de fábrica. Si la marcas, el toque directo se apaga solo cuando cierras QC Sala de verdad (con "Salir de la sala", con Atrás desde la pantalla de inicio o quitándola de Recientes), y al volver a la sala la app te ofrece encenderlo. Si solo cambias de app sin cerrarla, sigue encendido. (Gracias a tato-vanxino, que nos avisó.)
+- Botón "QC Sala: toque directo" para los ajustes rápidos de Android (el panel que se abre deslizando desde arriba). Si el toque directo está encendido, un toque lo apaga; si está apagado, te lleva a su interruptor en los ajustes de accesibilidad, porque Android no deja que una app encienda sola su servicio. Lo agregas desde Ajustes con "Poner el toque directo en los ajustes rápidos" (Android 13 o más; en Android 11 y 12 la app te explica cómo agregarlo a mano).
+
+### Cambios
+
+- Salir con Atrás desde la pantalla de inicio ahora cuenta como cerrar la app.
+
 ## Versión 1.0.5 (8 de octubre de 2026)
 
 ### Novedades
@@ -223,6 +234,12 @@ La primera versión para compartir con amigos. Es un archivo APK de unos 4,7 MB,
 
 ## In English
 
+### Version 1.0.6 (October 9, 2026)
+
+- New: a checkbox in Settings, right below "Turn on direct touch": "Turn off direct touch when closing the app". Some banks, like Nu, won't open their app while the "QC Sala: direct touch" service is on, because they mistake it for a spying app. QC Sala can't see or touch other apps: its service has no permission to read other windows. The checkbox is off by default. If you check it, direct touch turns itself off when you really close QC Sala (with "Leave the playroom", with Back from the home screen, or by removing it from recent apps), and when you come back to the playroom the app offers to turn it on again. If you just switch to another app without closing it, it stays on. (Thanks to tato-vanxino for letting us know.)
+- New: a "QC Sala: direct touch" button for Android's Quick Settings (the panel you open by swiping down from the top). If direct touch is on, one tap turns it off; if it's off, it takes you to its switch in the accessibility settings, because Android doesn't let an app turn its own service on. You add it from Settings with "Add direct touch to Quick Settings" (Android 13 or later; on Android 11 and 12 the app explains how to add it by hand).
+- Fix: leaving with Back from the home screen now counts as closing the app.
+
 ### Version 1.0.5 (October 8, 2026)
 
 - New: the table's audio sample. At a table, in More options, in the "Table and playroom" group, right after "Table management", there is a new "Audio sample" option. If you are the table master, the playroom asks you for a link: a radio station or an audio file with a direct link (for example from Dropbox with dl.dropbox; a page that asks you to tap "Download" won't work). Everyone else at the table turns it on or off with the same option. If the master taps it again, it stops, and the master can set another. It plays at the "music and streams" volume. You can also put it on a gesture, in Customize gestures (no gesture has it by default). (Idea by Un_Duendementor.)
@@ -259,6 +276,12 @@ La primera versión para compartir con amigos. Es un archivo APK de unos 4,7 MB,
 - Extra safety: the app never follows a redirect that could send your pass to another server.
 
 ## En français
+
+### Version 1.0.6 (9 octobre 2026)
+
+- Nouveau : une case dans les Paramètres, juste sous « Activer le toucher direct » : « Désactiver le toucher direct en fermant l’appli ». Certaines banques, comme Nu, refusent d’ouvrir leur appli tant que le service « QC Sala : toucher direct » est activé, parce qu’elles le prennent pour une appli espionne. QC Sala ne peut ni voir ni toucher les autres applis : son service n’a pas l’autorisation de lire les autres fenêtres. La case est décochée par défaut. Si vous la cochez, le toucher direct se désactive tout seul quand vous fermez vraiment QC Sala (avec « Quitter le Salon », avec Retour depuis l’écran d’accueil ou en la retirant des applis récentes), et quand vous revenez dans le Salon, l’appli vous propose de le réactiver. Si vous changez simplement d’appli sans fermer QC Sala, il reste activé. (Merci à tato-vanxino de nous avoir prévenus.)
+- Nouveau : un bouton « QC Sala : toucher direct » pour les réglages rapides d’Android (le panneau qui s’ouvre en balayant depuis le haut de l’écran). Si le toucher direct est activé, un appui le désactive ; s’il est désactivé, le bouton vous amène à son interrupteur dans les paramètres d’accessibilité, car Android ne permet pas à une appli d’activer elle-même son service. Vous l’ajoutez depuis les Paramètres avec « Ajouter le toucher direct aux réglages rapides » (Android 13 ou plus récent ; sous Android 11 et 12, l’appli explique comment l’ajouter à la main).
+- Correction : quitter avec Retour depuis l’écran d’accueil compte désormais comme une fermeture de l’appli.
 
 ### Version 1.0.5 (8 octobre 2026)
 

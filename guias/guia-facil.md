@@ -1,6 +1,6 @@
 # GUÍA FÁCIL DE QC SALA
 
-Para la versión 1.0.5 de la app.
+Para la versión 1.0.6 de la app.
 
 Esta guía es corta y sencilla. Cada parte tiene un número y un título. Los pasos dicen qué hacer y, muchas veces, qué vas a oír.
 
@@ -15,7 +15,7 @@ Esta guía es corta y sencilla. Cada parte tiene un número y un título. Los pa
 
 ## 1. ANTES DE EMPEZAR: INSTALAR LA APP
 
-Si QC Sala todavía no está en tu teléfono, primero hay que instalarla. La app viene en un archivo que se llama QC-Sala-1.0.5.apk.
+Si QC Sala todavía no está en tu teléfono, primero hay que instalarla. La app viene en un archivo que se llama QC-Sala-1.0.6.apk.
 
 Cómo instalarla, paso a paso, lo explica otra guía, la Guía de instalación: es el archivo [GUÍA DE INSTALACIÓN](guia-instalacion.md). Si te cuesta, pide a alguien de confianza que te ayude con esa parte.
 
@@ -111,6 +111,16 @@ Si en el cuadro "Toque directo" tocaste "Ahora no", no pasa nada. El cuadro vuel
 
 Con el toque directo encendido, toda la pantalla de la sala es para jugar con tus dedos. Siguen siendo de tu lector la barra de abajo del teléfono (Atrás, Inicio y Recientes) y dos botones en las esquinas de abajo, "Más opciones" y "Chat" (parte 7).
 
+
+### Si tu banco no abre
+
+Algunos bancos, como Nu, no abren su app mientras el toque directo está encendido. Lo confunden con una app que espía. No lo es: QC Sala no puede ver ni tocar lo que hay en otras apps, porque su servicio no tiene permiso para leer otras ventanas. Los bancos solo ven que hay un servicio de accesibilidad encendido.
+
+Qué hacer: apaga el toque directo antes de abrir el banco y vuelve a encenderlo cuando quieras jugar. Tienes tres formas:
+
+1. La casilla. En "Ajustes de la app", justo debajo de "Activar el toque directo", marca "Apagar el toque directo al cerrar la app". Viene apagada de fábrica. Con ella marcada, el toque directo se apaga solo cuando cierras QC Sala de verdad: con "Salir de la sala", con Atrás desde la primera pantalla de la app o quitándola de Recientes. Al volver a la sala, la app te ofrece encenderlo. Si solo cambias de app sin cerrarla, sigue encendido.
+2. El botón de los ajustes rápidos de Android (el panel que se abre deslizando desde arriba). Se llama "QC Sala: toque directo". Si el toque directo está encendido, un toque lo apaga; si está apagado, te lleva a su interruptor, porque Android no deja que una app encienda sola su servicio. Para ponerlo ahí, en "Ajustes de la app" toca "Poner el toque directo en los ajustes rápidos" (Android 13 o más; en Android 11 y 12 la app te explica cómo agregarlo a mano).
+3. Los ajustes de accesibilidad de Android. Apaga ahí "QC Sala: toque directo", igual que lo encendiste.
 
 ## 7. CÓMO ES LA PANTALLA DE LA SALA
 

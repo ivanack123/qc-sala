@@ -1,6 +1,6 @@
 # QC SALA EASY GUIDE
 
-For version 1.0.5 of the app.
+For version 1.0.6 of the app.
 
 This guide is short and simple. Each part has a number and a title. The steps tell you what to do and, often, what you’ll hear.
 
@@ -15,7 +15,7 @@ This guide is short and simple. Each part has a number and a title. The steps te
 
 ## 1. BEFORE YOU START: INSTALLING THE APP
 
-If QC Sala isn’t on your phone yet, you need to install it first. The app comes in a file called QC-Sala-1.0.5.apk.
+If QC Sala isn’t on your phone yet, you need to install it first. The app comes in a file called QC-Sala-1.0.6.apk.
 
 Another guide, the Installation Guide, explains step by step how to install it: it’s the file [INSTALLATION GUIDE](installation-guide.md). If you find it hard, ask someone you trust to help you with that part.
 
@@ -111,6 +111,16 @@ If you tapped "Not now" in the "Direct touch" dialog, that’s fine. The dialog 
 
 With direct touch on, the whole playroom screen is for playing with your fingers. Your screen reader still handles the phone’s bottom bar (Back, Home and Recents) and two buttons in the bottom corners, "More options" and "Chat" (part 7).
 
+
+### If your bank won’t open
+
+Some banks, like Nu, won’t open their app while direct touch is on. They mistake it for a spying app. It isn’t: QC Sala can’t see or touch anything in other apps, because its service has no permission to read other windows. The banks only see that an accessibility service is on.
+
+What to do: turn direct touch off before opening your bank, and turn it back on when you want to play. You have three ways:
+
+1. The checkbox. In "App settings", right below "Turn on direct touch", check "Turn off direct touch when closing the app". It is off by default. With it checked, direct touch turns itself off when you really close QC Sala: with "Leave the playroom", with Back from the app’s first screen, or by removing it from recent apps. When you come back to the playroom, the app offers to turn it on again. If you just switch to another app without closing it, it stays on.
+2. The button in Android’s Quick Settings (the panel you open by swiping down from the top). It is called "QC Sala: direct touch". If direct touch is on, one tap turns it off; if it is off, it takes you to its switch, because Android doesn’t let an app turn its own service on. To put it there, in "App settings" tap "Add direct touch to Quick Settings" (Android 13 or later; on Android 11 and 12 the app explains how to add it by hand).
+3. Android’s accessibility settings. Turn "QC Sala: direct touch" off there, the same way you turned it on.
 
 ## 7. HOW THE PLAYROOM SCREEN IS LAID OUT
 
