@@ -1,6 +1,6 @@
 # GUIDE FACILE DE QC SALA
 
-Pour la version 1.0.6 de l’appli.
+Pour la version 1.0.7 de l’appli.
 
 Ce guide est court et simple. Chaque partie a un numéro et un titre. Les étapes indiquent ce qu’il faut faire et, souvent, ce que vous allez entendre.
 
@@ -15,7 +15,7 @@ Ce guide est court et simple. Chaque partie a un numéro et un titre. Les étape
 
 ## 1. AVANT DE COMMENCER : INSTALLER L’APPLI
 
-Si QC Sala n’est pas encore sur votre téléphone, il faut d’abord l’installer. L’appli se présente sous la forme d’un fichier appelé QC-Sala-1.0.6.apk.
+Si QC Sala n’est pas encore sur votre téléphone, il faut d’abord l’installer. L’appli se présente sous la forme d’un fichier appelé QC-Sala-1.0.7.apk.
 
 L’installation, étape par étape, est expliquée dans un autre guide, le Guide d’installation : c’est le fichier « GUIDE D'INSTALLATION de QC Sala.txt ». Si c’est difficile pour vous, demandez à une personne de confiance de vous aider pour cette partie.
 
@@ -161,7 +161,8 @@ Ces gestes fonctionnent avec le toucher direct activé. Faites-les n’importe o
 11. Vous pouvez laisser un doigt posé sur l’écran pendant que vous réfléchissez : il ne se passe rien. Si vous balayez ensuite, le balayage compte.
 12. Maintenir deux doigts immobiles un moment puis les lever (une légère vibration vous indique quand les lever) : la fenêtre « Gestes du jeu » s’ouvre, avec tout ce que vous pouvez faire dans ce jeu et ce que fait chaque geste.
 13. Deux traits à la suite avec un doigt, sans le lever : vers le bas puis vers la gauche, c’est Retour, comme le bouton Retour du téléphone. Vers le bas puis vers la droite, deux fois de suite, ouvre le menu de votre lecteur d’écran. La première fois, vous entendez « Écran rendu à votre lecteur : refaites le geste » ; la deuxième fois, votre lecteur l’exécute.
-14. Deux autres gestes à un doigt, aussi en deux traits à la suite sans le lever : vers le haut puis vers le bas, vous allez au premier élément de la zone (la première carte ou la première option) ; vers le bas puis vers le haut, au dernier. Ils fonctionnent aussi dans l’historique, pour aller au premier ou au dernier message. Faites chaque trait long, comme un balayage normal. Si vous étiez déjà sur cet élément, vous entendez une butée.
+14. Pour aller d’un bond au premier ou au dernier élément de la zone, faites avec un seul doigt deux traits à la suite, sans le lever : vers le haut puis vers le bas, vous allez au premier (la première carte ou la première option) ; vers le bas puis vers le haut, au dernier. Ils fonctionnent aussi dans l’historique, pour aller au premier ou au dernier message de la vue. Faites chaque trait long, comme un balayage normal. Si vous étiez déjà sur cet élément, vous entendez une butée.
+15. Pour changer ce que parcourt l’historique (la vue), faites avec deux doigts deux traits à la suite, sans les lever : vers la droite puis vers la gauche, vous passez à la vue suivante (Général, Jeu, Discussions, Messages privés, Invitations, Amis et Chat public) ; vers la gauche puis vers la droite, à la précédente. Vous entendez le nom de la vue et son nombre de messages, et ensuite les balayages à deux doigts vers les côtés ne parcourent plus que cette vue. Ainsi, vous pouvez n’écouter que le jeu, ou que le chat.
 
 La première fois que vous entrez dans chaque jeu, vous entendez : « Maintenez deux doigts sur l’écran pour découvrir les gestes de ce jeu. » C’est le geste 12.
 
@@ -224,12 +225,13 @@ Avec le toucher direct, tout cela se trouve dans « Plus d’options », le bo
 
 Les gestes pour jouer, comme piocher avec un balayage à deux doigts vers le bas, fonctionnent aussi dans « Plus d’options ».
 
-Deux options de « Plus d’options » à connaître :
+Quelques options de « Plus d’options » à connaître :
 
 - « Flux audio » (seulement à une table, dans le groupe « Table et Salon ») : elle permet à toute la table d’entendre une radio ou un fichier audio. Si vous êtes le chef de table, le Salon vous demande le lien ; les autres l’activent ou la coupent avec la même option.
+- « Forum » et « Messages permanents » (dans le groupe « Table et Salon ») : elles marchent partout dans le Salon, pas seulement à une table. Le forum, c’est là où vous lisez le forum du Salon et où vous y écrivez. Les messages permanents sont votre boîte de réception des messages privés que le Salon garde pour vous, et qui vous parviennent même quand vous n’y êtes pas.
 - « Volumes » (dans le groupe « Aide, paramètres et sortie ») : elle ouvre une fenêtre avec trois barres : son, notifications, et musique et flux. Montez-les ou baissez-les avec le geste de votre lecteur d’écran prévu pour cela, et le bouton « Fermer » vous ramène au jeu.
 
-Si vous le souhaitez, vous pouvez mettre l’une ou l’autre sur un geste, dans « Personnaliser les gestes » (même groupe « Aide, paramètres et sortie »). Il y a aussi là des actions pour passer au volume suivant, le monter et le baisser.
+Si vous le souhaitez, vous pouvez mettre n’importe laquelle sur un geste, dans « Personnaliser les gestes » (même groupe « Aide, paramètres et sortie »). Il y a aussi là des actions pour passer au volume suivant, le monter et le baisser.
 
 
 ## 10. ÉCRIRE DANS LE CHAT
@@ -251,6 +253,9 @@ Le nom du champ vous indique qui va lire votre message : à une table, « Mess
 
 Pour renvoyer un message que vous avez déjà écrit : dans « Plus d’options » (ou dans « Plus »), groupe « Table et Salon », choisissez « Réutiliser un message envoyé », puis le message.
 
+### Si vous utilisez un clavier branché au téléphone :
+
+Si, à l’accueil du Salon, vous entendez « Combinaison de touches non prise en charge » en appuyant sur Alt+C, ce message vient de votre lecteur d’écran, pas de QC Sala. L’appli vous amène au chat avec Alt+C, et la touche Tab y mène aussi. Certains lecteurs d’écran (par exemple Voice Assistant de Samsung, ou TalkBack avec son clavier classique) gardent Alt pour leurs propres raccourcis, et c’est pourquoi ils donnent ce message. Avec TalkBack 17, cela fonctionne. Vous pouvez changer dans votre lecteur la touche de ses raccourcis, s’il vous le permet, ou rejoindre le chat avec la touche Tab. (Merci à JohnnyBravo et à John_Lowell de l’avoir signalé et éclairci.)
 
 ## 11. QUITTER LA TABLE ET LE SALON
 

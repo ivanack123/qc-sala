@@ -1,6 +1,6 @@
 # GUÍA FÁCIL DE QC SALA
 
-Para la versión 1.0.6 de la app.
+Para la versión 1.0.7 de la app.
 
 Esta guía es corta y sencilla. Cada parte tiene un número y un título. Los pasos dicen qué hacer y, muchas veces, qué vas a oír.
 
@@ -15,7 +15,7 @@ Esta guía es corta y sencilla. Cada parte tiene un número y un título. Los pa
 
 ## 1. ANTES DE EMPEZAR: INSTALAR LA APP
 
-Si QC Sala todavía no está en tu teléfono, primero hay que instalarla. La app viene en un archivo que se llama QC-Sala-1.0.6.apk.
+Si QC Sala todavía no está en tu teléfono, primero hay que instalarla. La app viene en un archivo que se llama QC-Sala-1.0.7.apk.
 
 Cómo instalarla, paso a paso, lo explica otra guía, la Guía de instalación: es el archivo [GUÍA DE INSTALACIÓN](guia-instalacion.md). Si te cuesta, pide a alguien de confianza que te ayude con esa parte.
 
@@ -161,7 +161,8 @@ Estos gestos funcionan con el toque directo encendido. Hazlos en cualquier parte
 11. Puedes dejar un dedo apoyado en la pantalla mientras piensas: no pasa nada. Si luego deslizas, cuenta el deslizamiento.
 12. Mantener dos dedos quietos un momento y levantarlos (el teléfono vibra suave cuando ya puedes): se abre "Gestos del juego", con todo lo que puedes hacer en ese juego y qué hace cada gesto.
 13. Dos gestos con un dedo, en dos trazos seguidos sin levantarlo: abajo y luego a la izquierda es Atrás, como el botón Atrás del teléfono. Abajo y luego a la derecha, hecho dos veces, abre el menú de tu lector. La primera vez oyes "Pantalla para tu lector: repite el gesto"; la segunda lo hace tu lector.
-14. Dos gestos más con un dedo, también en dos trazos seguidos sin levantarlo: arriba y luego abajo te lleva al primer elemento de la zona (la primera carta o la primera opción); abajo y luego arriba, al último. También sirven en el historial, para ir al primer o al último mensaje. Haz cada trazo largo, como un deslizamiento normal. Si ya estabas en ese elemento, suena un tope.
+14. Para ir de un salto al primero o al último elemento de la zona, haz con un solo dedo dos trazos seguidos, sin levantarlo: arriba y luego abajo te lleva al primero (la primera carta o la primera opción); abajo y luego arriba, al último. También sirven en el historial, para ir al primer o al último mensaje de la vista. Haz cada trazo largo, como un deslizamiento normal. Si ya estabas en ese elemento, suena un tope.
+15. Para cambiar lo que recorre el historial (la vista), haz con dos dedos dos trazos seguidos, sin levantarlos: a la derecha y luego a la izquierda pasas a la vista siguiente (General, Juego, Conversaciones, Mensajes privados, Invitaciones, Amigos y Chat público); a la izquierda y luego a la derecha, a la anterior. Oyes el nombre de la vista y cuántos mensajes tiene, y desde ahí los dos dedos a los lados recorren solo esa vista. Así puedes oír solo lo del juego, o solo el chat.
 
 La primera vez que entras a cada juego oyes: "Mantén dos dedos para conocer los gestos de este juego." Es el gesto 12.
 
@@ -224,12 +225,13 @@ Con el toque directo, todo eso está en "Más opciones", el botón de la esquina
 
 Los gestos para jugar, como robar con dos dedos hacia abajo, también funcionan dentro de Más opciones.
 
-Dos opciones de Más opciones que conviene conocer:
+Algunas opciones de Más opciones que conviene conocer:
 
 - "Muestra de audio" (solo dentro de una mesa, en el grupo "Mesa y sala"): sirve para que toda la mesa oiga una radio o un audio. Si eres el jefe de mesa, la sala te pide el enlace; los demás la encienden o la apagan con la misma opción.
+- "Foro" y "Mensajes permanentes" (en el grupo "Mesa y sala"): sirven en cualquier parte de la sala, no solo en una mesa. El foro es donde se lee y se escribe en el foro de la sala. Los mensajes permanentes son tu bandeja de los mensajes privados que la sala guarda para ti y te llegan aunque no estés en ella.
 - "Volúmenes" (en el grupo "Ayuda, ajustes y salir"): abre un cuadro con tres barras: sonido, notificaciones, y música y flujos. Las subes o las bajas con el gesto de tu lector para eso, y el botón "Cerrar" te regresa al juego.
 
-Si quieres, puedes poner cualquiera de las dos en un gesto, en "Personalizar gestos" (mismo grupo "Ayuda, ajustes y salir"). Ahí también hay acciones para elegir el siguiente volumen, subirlo y bajarlo.
+Si quieres, puedes poner cualquiera de ellas en un gesto, en "Personalizar gestos" (mismo grupo "Ayuda, ajustes y salir"). Ahí también hay acciones para elegir el siguiente volumen, subirlo y bajarlo.
 
 
 ## 10. ESCRIBIR EN EL CHAT
@@ -251,6 +253,9 @@ El nombre del campo te dice quién va a leer tu mensaje: en una mesa, "Mensaje p
 
 Para mandar otra vez un mensaje que ya escribiste: en "Más opciones" (o en "Más"), grupo "Mesa y sala", elige "Escribir de nuevo un mensaje que enviaste" y luego el mensaje.
 
+### Si usas un teclado conectado al teléfono:
+
+Si en la sala principal oyes "Combinación de teclas no admitida" al pulsar Alt+C, ese mensaje es de tu lector de pantalla, no de QC Sala. La app lleva al chat con Alt+C, y el Tabulador también llega al chat. Algunos lectores (por ejemplo Voice Assistant de Samsung, o TalkBack con su teclado clásico) se quedan con Alt para sus propios atajos y por eso dan ese aviso. Con TalkBack 17 funciona. Puedes cambiar en tu lector la tecla de sus atajos, si te deja, o llegar al chat con el Tabulador. (Gracias a JohnnyBravo y a John_Lowell por reportarlo y aclararlo.)
 
 ## 11. SALIR DE LA MESA Y DE LA SALA
 

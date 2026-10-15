@@ -4,6 +4,18 @@ QC Sala es una app no oficial para Android, hecha para jugar en la Sala de Juego
 
 El número de versión tiene tres partes: la primera sube con un gran salto, la segunda con funciones nuevas y la tercera con correcciones pequeñas.
 
+## Versión 1.0.7 (15 de octubre de 2026)
+
+### Novedades
+
+- Gestos nuevos para cambiar la vista del historial, como en el programa de escritorio. Con el toque directo, en la zona de juego: dos dedos a la derecha y luego a la izquierda, sin levantarlos, pasan a la vista siguiente (General, Juego, Conversaciones, Mensajes privados, Invitaciones, Amigos, Chat público); a la izquierda y luego a la derecha, a la anterior. Tras la última vuelve a la primera. Oyes el nombre de la vista y cuántos mensajes tiene ("Juego: 12 mensajes"), y los mensajes anterior y siguiente de dos dedos a los lados recorren solo esa vista: así, en cualquier juego, puedes oír solo lo del juego o solo el chat. Vienen de fábrica en todos los juegos, se pueden cambiar en Personalizar gestos y están también en las acciones del lector sobre el encabezado del historial, para usarlos sin el toque directo. (Gracias a Principe_Guerrero.)
+- Dos opciones nuevas en Más opciones, grupo "Mesa y sala": "Foro" y "Mensajes permanentes". Funcionan en cualquier parte de la sala, no solo en una mesa, y también se pueden poner en un gesto, en Personalizar gestos (de fábrica ningún gesto las trae). (Gracias a Principe_Guerrero.)
+- Los avisos de quién entra o sale de la sala, o de quién crea o deja una mesa, ya no cortan lo que tu lector está diciendo: esperan a que termine y salen después, también dentro de los cuadros de la app. Hay una casilla nueva en Ajustes, en "Lector de pantalla y gestos", marcada de fábrica: "Que los avisos de quién entra o sale de la sala esperen su turno". Si callas a tu lector, los avisos que esperaban se descartan (siguen en el historial). Un límite honesto: lo que tu lector diga por su cuenta, fuera de la app, sí puede cortarse. (Gracias a Lautaro_Martinez.)
+
+### Cambios
+
+- Las novedades que salen tras actualizar son las de esta versión, en español, inglés y francés.
+
 ## Versión 1.0.6 (9 de octubre de 2026)
 
 ### Novedades
@@ -234,6 +246,13 @@ La primera versión para compartir con amigos. Es un archivo APK de unos 4,7 MB,
 
 ## In English
 
+### Version 1.0.7 (October 15, 2026)
+
+- New: gestures to change the history view, as in the desktop program. With direct touch, in the game area: two fingers right then left, without lifting them, take you to the next view (General, Game, Discussions, Private messages, Invitations, Friends, Public chat); left then right, to the previous one. After the last one it goes back to the first. You hear the name of the view and how many messages it has ("Game: 12 messages"), and the two-finger previous and next message swipes go through only that view: so, in any game, you can hear just the game or just the chat. They come by default in every game, you can change them in Customize gestures, and they are also among your screen reader's actions on the history heading, to use them without direct touch. (Thanks to Principe_Guerrero.)
+- New: two options in More options, in the "Table and playroom" group: "Forum" and "Permanent messages". They work anywhere in the playroom, not just at a table, and you can also put them on a gesture, in Customize gestures (no gesture has them by default). (Thanks to Principe_Guerrero.)
+- New: announcements about who comes and goes in the playroom, or who creates or leaves a table, no longer cut off what your screen reader is saying: they wait until it finishes and come out afterwards, also inside the app’s dialogs. There is a new checkbox in Settings, under "Screen reader and gestures", checked by default: "Let announcements about who comes and goes wait their turn". If you silence your screen reader, the waiting announcements are dropped (they stay in the history). An honest limit: what your screen reader says on its own, outside the app, can still be cut off. (Thanks to Lautaro_Martinez.)
+- The what’s-new dialog shown after updating is for this version, in Spanish, English and French.
+
 ### Version 1.0.6 (October 9, 2026)
 
 - New: a checkbox in Settings, right below "Turn on direct touch": "Turn off direct touch when closing the app". Some banks, like Nu, won't open their app while the "QC Sala: direct touch" service is on, because they mistake it for a spying app. QC Sala can't see or touch other apps: its service has no permission to read other windows. The checkbox is off by default. If you check it, direct touch turns itself off when you really close QC Sala (with "Leave the playroom", with Back from the home screen, or by removing it from recent apps), and when you come back to the playroom the app offers to turn it on again. If you just switch to another app without closing it, it stays on. (Thanks to tato-vanxino for letting us know.)
@@ -276,6 +295,13 @@ La primera versión para compartir con amigos. Es un archivo APK de unos 4,7 MB,
 - Extra safety: the app never follows a redirect that could send your pass to another server.
 
 ## En français
+
+### Version 1.0.7 (15 octobre 2026)
+
+- Nouveau : des gestes pour changer de vue dans l’historique, comme dans le programme pour ordinateur. Avec le toucher direct, dans la zone de jeu : deux doigts vers la droite puis vers la gauche, sans les lever, pour passer à la vue suivante (Général, Jeu, Discussions, Messages privés, Invitations, Amis, Chat public) ; vers la gauche puis vers la droite, pour la précédente. Après la dernière, on revient à la première. Vous entendez le nom de la vue et son nombre de messages (« Jeu : 12 messages »), et les balayages à deux doigts vers le message précédent ou suivant ne parcourent plus que cette vue : ainsi, dans n’importe quel jeu, vous pouvez n’écouter que le jeu ou que le chat. Ils sont actifs par défaut dans tous les jeux, vous pouvez les modifier dans Personnaliser les gestes, et ils figurent aussi parmi les actions de votre lecteur d’écran sur l’en-tête de l’historique, pour les utiliser sans le toucher direct. (Merci à Principe_Guerrero.)
+- Nouveau : deux options dans « Plus d’options », groupe « Table et Salon » : « Forum » et « Messages permanents ». Elles marchent partout dans le Salon, pas seulement à une table, et vous pouvez aussi les mettre sur un geste, dans Personnaliser les gestes (aucun geste ne les a par défaut). (Merci à Principe_Guerrero.)
+- Nouveau : les annonces des arrivées et des départs dans le Salon, ou des tables créées ou quittées, ne coupent plus ce que dit votre lecteur d’écran : elles attendent qu’il ait fini et sont dites ensuite, y compris dans les fenêtres de l’appli. Une nouvelle case dans les Paramètres, sous « Lecteur d’écran et gestes », cochée par défaut : « Laisser les annonces des arrivées et des départs attendre leur tour ». Si vous faites taire votre lecteur d’écran, les annonces en attente sont abandonnées (elles restent dans l’historique). Une limite honnête : ce que votre lecteur d’écran dit de lui-même, en dehors de l’appli, peut encore être coupé. (Merci à Lautaro_Martinez.)
+- Les nouveautés affichées après une mise à jour sont celles de cette version, en espagnol, en anglais et en français.
 
 ### Version 1.0.6 (9 octobre 2026)
 

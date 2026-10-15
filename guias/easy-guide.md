@@ -1,6 +1,6 @@
 # QC SALA EASY GUIDE
 
-For version 1.0.6 of the app.
+For version 1.0.7 of the app.
 
 This guide is short and simple. Each part has a number and a title. The steps tell you what to do and, often, what you’ll hear.
 
@@ -15,7 +15,7 @@ This guide is short and simple. Each part has a number and a title. The steps te
 
 ## 1. BEFORE YOU START: INSTALLING THE APP
 
-If QC Sala isn’t on your phone yet, you need to install it first. The app comes in a file called QC-Sala-1.0.6.apk.
+If QC Sala isn’t on your phone yet, you need to install it first. The app comes in a file called QC-Sala-1.0.7.apk.
 
 Another guide, the Installation Guide, explains step by step how to install it: it’s the file [INSTALLATION GUIDE](installation-guide.md). If you find it hard, ask someone you trust to help you with that part.
 
@@ -161,7 +161,8 @@ These gestures work with direct touch on. Do them anywhere on the playroom scree
 11. You can rest a finger on the screen while you think: nothing happens. If you then swipe, the swipe counts.
 12. Two-finger hold: keep two fingers still for a moment and lift them (the phone vibrates gently when you can). "Game gestures" opens, with everything you can do in that game and what each gesture does.
 13. Two strokes in a row with one finger, without lifting it: down then left is Back, like the phone’s Back button. Down then right, done twice, opens your screen reader’s menu. The first time you hear “Your screen reader has the screen: repeat the gesture”; the second time your screen reader does it.
-14. Two more one-finger gestures, also in two strokes in a row without lifting it: up then down takes you to the first item in the area (the first card or the first option); down then up takes you to the last. They also work in the history, to jump to the first or last message. Make each stroke long, like a normal swipe. If you were already on that item, you hear a stop sound.
+14. To jump straight to the first or the last item in the area, make two strokes in a row with one finger, without lifting it: up then down takes you to the first (the first card or the first option); down then up takes you to the last. They also work in the history, to jump to the first or last message of the view. Make each stroke long, like a normal swipe. If you were already on that item, you hear a stop sound.
+15. To change what the history goes through (the view), make two strokes in a row with two fingers, without lifting them: right then left takes you to the next view (General, Game, Discussions, Private messages, Invitations, Friends and Public chat); left then right, to the previous one. You hear the name of the view and how many messages it has, and from then on two fingers left and right go through only that view. That way you can hear just the game, or just the chat.
 
 The first time you join each game, you hear: "Hold two fingers on the screen to learn this game’s gestures." That’s gesture 12.
 
@@ -224,12 +225,13 @@ With direct touch, all of that is in "More options", the button in the bottom-le
 
 The gestures for playing, like drawing with a two-finger swipe down, also work inside More options.
 
-Two options in More options worth knowing:
+A few options in More options worth knowing:
 
 - "Audio sample" (only at a table, in the "Table and playroom" group): it lets the whole table hear a radio station or an audio file. If you're the table master, the playroom asks you for the link; everyone else turns it on or off with the same option.
+- "Forum" and "Permanent messages" (in the "Table and playroom" group): they work anywhere in the playroom, not just at a table. The forum is where you read and post in the playroom forum. Permanent messages are your inbox of private messages that the playroom keeps for you, which reach you even when you’re not there.
 - "Volumes" (in the "Help, settings and exit" group): it opens a dialog with three sliders: sounds, notifications, and music and streams. Raise or lower them with your screen reader's gesture for that, and the "Close" button takes you back to the game.
 
-If you like, you can put either one on a gesture, in "Customize gestures" (same "Help, settings and exit" group). There are also actions there to switch to the next volume, raise it and lower it.
+If you like, you can put any of them on a gesture, in "Customize gestures" (same "Help, settings and exit" group). There are also actions there to switch to the next volume, raise it and lower it.
 
 
 ## 10. WRITING IN THE CHAT
@@ -251,6 +253,9 @@ The field’s name tells you who will read your message: at a table, "Message to
 
 To resend a message you already wrote: in "More options" (or in "More"), in the "Table and playroom" group, choose "Reuse a message you sent" and then the message.
 
+### If you use a keyboard connected to the phone:
+
+If, in the main room, you hear "Key combination not supported" when you press Alt+C, that message comes from your screen reader, not from QC Sala. The app takes you to the chat with Alt+C, and the Tab key also gets you to the chat. Some screen readers (for example Samsung’s Voice Assistant, or TalkBack with its classic keyboard) keep Alt for their own shortcuts, and that is why they give that message. With TalkBack 17 it works. You can change the key your screen reader uses for its shortcuts, if it lets you, or get to the chat with the Tab key. (Thanks to JohnnyBravo and John_Lowell for reporting it and clearing it up.)
 
 ## 11. LEAVING THE TABLE AND THE PLAYROOM
 

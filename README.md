@@ -16,7 +16,7 @@ Nada de una página web metida en una app: QC Sala está hecha desde cero para e
 
 ## ⬇️ Descárgala
 
-1. **[Baja aquí la última versión (QC-Sala-1.0.6.apk)](https://github.com/ivanack123/qc-sala/releases/latest)**. Pesa unos 1,7 MB.
+1. **[Baja aquí la última versión (QC-Sala-1.0.7.apk)](https://github.com/ivanack123/qc-sala/releases/latest)**. Pesa unos 1,7 MB.
 2. Sigue la **[guía de instalación](guias/guia-instalacion.md)**, paso por paso, con todos los avisos que te puede poner Android, Samsung y Play Protect. Como la app no viene de la tienda de Google, Android pregunta un par de cosas de más. No te espantes: la guía te lleva de la mano.
 3. Ya instalada, **la app te avisa sola cuando saque una versión nueva** y la actualiza con un par de toques, sin perder tu sesión ni tus ajustes. Además, después de actualizar te cuenta las novedades de la versión.
 
@@ -30,12 +30,13 @@ Nada de una página web metida en una app: QC Sala está hecha desde cero para e
 - **Toque directo.** La pantalla entera es tu zona de juego: deslizas un dedo para moverte entre tus cartas o fichas y das doble toque para jugar. Sin explorar, sin perderte.
 - **Gestos para cada juego.** La app sabe en qué juego estás y se acomoda sola: en Uno dices "Uno" con dos dedos hacia arriba, robas con dos dedos hacia abajo, preguntas a quién le toca con tres dedos. Y si quieres, personalizas cada gesto, para todos los juegos o solo para uno.
 - **Saltos al primero y al último.** Un dedo hacia arriba y, sin levantarlo, hacia abajo te lleva al primer elemento de la zona; hacia abajo y luego arriba, al último. También sirve en el historial.
+- **Vistas del historial por gesto.** Con dos dedos a la derecha y luego a la izquierda, sin levantarlos, pasas a la vista siguiente del historial (juego, conversaciones, chat público y más); al revés, a la anterior. Oyes su nombre y cuántos mensajes tiene.
 - **Los gestos de tu lector siguen vivos.** Abajo y a la izquierda es Atrás, y el menú de tu lector queda a un gesto de distancia, aun en plena partida.
 - **Los mismos sonidos de la sala**, con sus efectos, como en el programa de la compu.
 - **Avisos ordenados.** Lo que tú juegas no se repite, y la jugada de los bots no se pierde aunque llegue de golpe.
 - **Historial** de todo lo que dice la sala, con sus vistas (todo, juego, chat, privados y más), para repasar lo que te perdiste.
 - **Chat** a un toque, en la esquina de abajo a la derecha.
-- **Más opciones** en la esquina de abajo a la izquierda: salir de la mesa, gestión de la mesa, amigos, bandeja de entrada y todo lo demás. Y cualquiera de esas cosas la puedes poner en un gesto.
+- **Más opciones** en la esquina de abajo a la izquierda: salir de la mesa, gestión de la mesa, amigos, bandeja de entrada, foro, mensajes permanentes y todo lo demás. Y cualquiera de esas cosas la puedes poner en un gesto.
 - **Muestra de audio.** Dentro de una mesa, el jefe de mesa pone el enlace de una radio o de un audio, y los demás de la mesa lo encienden o lo apagan. Las radios con enlace http, sin cifrar, también suenan.
 - **Volúmenes rápidos.** Las tres barras de volumen (sonido, notificaciones, y música y flujos) en un cuadro de Más opciones, sin salir de la sala, y acciones para subir, bajar y elegir el volumen con un gesto.
 - **Para los bancos que se espantan.** Algunos, como Nu, no abren su app con el toque directo encendido (aunque QC Sala no puede ver ni tocar otras apps). En Ajustes hay una casilla para que se apague solo al cerrar QC Sala, y un botón para los ajustes rápidos de Android que lo apaga de un toque.

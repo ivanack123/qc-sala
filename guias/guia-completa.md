@@ -1,6 +1,6 @@
 # GUÍA COMPLETA DE QC SALA
 
-Versión de la app: 1.0.6. Guía escrita en octubre de 2026.
+Versión de la app: 1.0.7. Guía escrita en octubre de 2026.
 
 Esta guía es para quien ya maneja bien su teléfono Android y su lector de pantalla. Cada parte empieza con un número y un título en mayúsculas, para que la encuentres con la búsqueda de tu lector o saltando de línea en línea. Si prefieres algo más sencillo, está la [GUÍA FÁCIL](guia-facil.md). Para instalar la app paso a paso, está la [GUÍA DE INSTALACIÓN](guia-instalacion.md).
 
@@ -35,7 +35,7 @@ Todo lo que hacen los gestos tiene también un botón.
 
 ## 3. INSTALAR LA APP
 
-QC Sala no está en la tienda de Google. Se instala con su archivo, QC-Sala-1.0.6.apk (unos 1,7 MB), que te pasa quien te la comparte. Los pasos completos, con los avisos que pueden salir de Android, de Samsung y de Play Protect, están en la [GUÍA DE INSTALACIÓN](guia-instalacion.md). En resumen:
+QC Sala no está en la tienda de Google. Se instala con su archivo, QC-Sala-1.0.7.apk (unos 1,7 MB), que te pasa quien te la comparte. Los pasos completos, con los avisos que pueden salir de Android, de Samsung y de Play Protect, están en la [GUÍA DE INSTALACIÓN](guia-instalacion.md). En resumen:
 
 1. Abre el archivo desde donde lo recibiste: WhatsApp, el navegador o la app de archivos.
 2. Si Android te pide permiso para instalar apps desde esa app, dáselo. Según el teléfono, la opción se llama "Confiar en esta fuente" o "Permitir de esta fuente". En Android 7 es un solo permiso para todo el teléfono, "Orígenes desconocidos", en los ajustes de "Seguridad".
@@ -232,7 +232,7 @@ Más opciones se abre siempre en su primera opción, no en la última que visita
 ### Los cuatro grupos, en orden:
 
 - **Partida**: "Salir de la mesa" (solo en una mesa, y entonces es la primera; parte 25), "Estado de la conexión: …" (su doble toque lo repite), "Volver a conectar" (solo si la conexión se detuvo o espera para reintentar), "Gestos del juego", "Jugar o confirmar", el botón de dos dedos abajo (solo cuando la app sabe el juego y ese gesto hace algo en él, con el nombre de lo que hace: en Uno, "Robar"), "Menú contextual" y "Atrás en el menú del juego" (regresa en el menú del juego y te deja en Más opciones).
-- **Mesa y sala**: "Escribir en el chat" (lo mismo que el botón "Chat"), "Escribir de nuevo un mensaje que enviaste" (parte 17), "Ayuda rápida del juego" (dicha con tus gestos, parte 14), "Gestión de la mesa", "Muestra de audio" (solo en una mesa, parte 19), "Funcionalidades y más", "Opciones de tu cuenta", "Actualizar la sala (si algo no está al día)", "Usuarios conectados" y "Lista de amigos".
+- **Mesa y sala**: "Escribir en el chat" (lo mismo que el botón "Chat"), "Escribir de nuevo un mensaje que enviaste" (parte 17), "Ayuda rápida del juego" (dicha con tus gestos, parte 14), "Gestión de la mesa", "Muestra de audio" (solo en una mesa, parte 19), "Funcionalidades y más", "Opciones de tu cuenta", "Actualizar la sala (si algo no está al día)", "Usuarios conectados", "Lista de amigos", "Foro" y "Mensajes permanentes" (los dos sirven en cualquier parte de la sala, no solo en una mesa; los explica la parte 18).
 - **Historial**: "Qué recorre el historial: …" (cada doble toque pasa a la vista siguiente y te la dice), "Ir al principio del historial", "Ir al final del historial", "Mensaje anterior del historial", "Mensaje siguiente del historial", "Repetir el último mensaje", "Abrir los enlaces del mensaje" (parte 18), "Ver el historial" y "Borrar el historial".
 - **Ayuda, ajustes y salir**: "Mi lector ya lee la zona de juego: quitar la protección" (solo si hace falta, parte 23), "Salir de la sala", "Ayuda de gestos", "Personalizar gestos", "Volúmenes" (parte 19), "Ajustes de la app" y, al final, lejos de la salida, "Cerrar sesión en qcsalon.net".
 
@@ -288,6 +288,8 @@ Lo que sigue es lo de fábrica. Los gestos marcados como "del juego" cambian seg
 - **Dos dedos abajo**: robar, o la jugada de "tomar" de ese juego.
 - **Dos dedos a la izquierda**: retroceder en el historial (mensaje anterior, hacia lo más viejo).
 - **Dos dedos a la derecha**: avanzar en el historial (mensaje siguiente, hacia lo más reciente).
+- **Dos dedos a la derecha y luego a la izquierda, sin levantarlos**: la vista siguiente del historial (General, Juego, Conversaciones, Mensajes privados, Invitaciones, Amigos y Chat público); después de la última vuelve a la primera. Oyes el nombre de la vista y cuántos mensajes tiene ("Juego: 12 mensajes" o "Juego: sin mensajes"), y desde ahí los dos dedos a la izquierda y a la derecha recorren solo esa vista. Así, en un juego puedes oír solo lo del juego, o solo el chat.
+- **Dos dedos a la izquierda y luego a la derecha, sin levantarlos**: la vista anterior del historial. Haz cada trazo tan largo como un deslizamiento normal; un círculo, un temblor o el arco del pulgar no lo disparan.
 
 ### Con tres dedos:
 
@@ -579,9 +581,13 @@ Piensa en el historial como una fila: lo más viejo a la izquierda y lo más rec
 Dónde empieza. El cursor del historial empieza al final, después del último mensaje: el primer "mensaje anterior" (dos dedos a la izquierda) lee el más reciente, y los siguientes van hacia atrás. Dos dedos a la derecha en el final dicen "Final del historial". Mientras no leas ningún mensaje, el cursor se queda después del último aunque lleguen otros. En cuanto lees uno (también el último), el cursor se queda en él: lo que llega no te lo mueve, así que en una partida rápida puedes repasar hacia atrás sin que las jugadas nuevas te devuelvan al final. Lo nuevo lo alcanzas con dos dedos a la derecha o de un salto con tres dedos a la derecha.
 
 - Desde Más opciones, grupo Historial (con el toque directo), o desde "Más", grupo Historial (con tu lector normal).
-- Con tu lector normal, también en la lista del historial. Las acciones del lector sobre el título del historial traen: ver el historial, mensaje anterior y siguiente, ir al principio y al final, repetir el último mensaje, cambiar la vista y borrar el historial.
+- Con tu lector normal, también en la lista del historial. Las acciones del lector sobre el título del historial traen: ver el historial, mensaje anterior y siguiente, ir al principio y al final, repetir el último mensaje, vista anterior y vista siguiente, cambiar la vista y borrar el historial.
 
 Qué recorre el historial. Las vistas filtran el historial por canales (parte 21). Las siete de fábrica son General, Juego, Conversaciones, Mensajes privados, Invitaciones, Amigos y Chat público. La que recorren los gestos se elige en Más opciones, grupo Historial, con "Qué recorre el historial: …" (cada doble toque pasa a la vista siguiente y te la dice; después de la última viene la primera), en "Más" (abre la lista de las vistas) o en Ajustes, sección Vistas del historial. La app la recuerda aunque salgas de la sala.
+
+Las vistas por gesto. Con el toque directo, en la zona de juego, sin pasar por ningún menú: dos dedos a la derecha y luego a la izquierda, sin levantarlos, pasan a la vista siguiente; a la izquierda y luego a la derecha, a la anterior. Tras la última vuelve a la primera. Oyes el nombre de la vista y cuántos mensajes tiene, y los dos dedos a los lados recorren solo esa vista. Sin el toque directo, usa las acciones "Vista siguiente del historial" y "Vista anterior del historial" que tu lector trae sobre el título del historial. Los dos gestos vienen de fábrica en todos los juegos y se cambian en "Personalizar gestos" (parte 22).
+
+El foro y los mensajes permanentes. En Más opciones, grupo Mesa y sala, están "Foro" y "Mensajes permanentes" (tu bandeja de los mensajes privados que la sala guarda para ti y te llegan aunque no estés en ella). Funcionan en cualquier parte de la sala, no solo en una mesa: le mandan a la sala lo mismo que el programa de la computadora y lo que la sala abra te llega como siempre. También son acciones para poner en un gesto (parte 22); de fábrica ningún gesto las tiene.
 
 Los enlaces de un mensaje. "Abrir los enlaces del mensaje", en Más opciones, grupo Historial, abre los del mensaje en el que estás: el último que oíste al recorrer el historial o, si no has recorrido ninguno, el más reciente. Si ese mensaje no tiene enlaces, oyes "Este mensaje no tiene enlaces.".
 
@@ -667,6 +673,7 @@ Están en este orden: Lector de pantalla y gestos; Pantalla y movimiento; Volúm
 - **"Apagar el toque directo al cerrar la app"**: una casilla, justo debajo de ese botón, con su explicación encima. Viene apagada. Si la marcas, el toque directo se apaga solo cuando cierras QC Sala de verdad (con "Salir de la sala", con Atrás desde la primera pantalla de la app o quitándola de Recientes), y al volver a la sala la app te ofrece encenderlo. Cambiar de app sin cerrarla no lo apaga. Sirve para los bancos, como Nu, que no abren su app con el toque directo encendido (ver la parte 4).
 - **"Poner el toque directo en los ajustes rápidos"**: pone el botón "QC Sala: toque directo" en el panel que se abre deslizando desde arriba. Encendido, un toque lo apaga; apagado, te lleva a su interruptor. En Android 13 o más, Android te muestra un cuadro para confirmarlo; en Android 11 y 12, la app te explica cómo agregarlo a mano. Sin toque directo (antes de Android 11), este botón y la casilla no aparecen.
 - **"Gestos de la sala"**: enciende o apaga todos los gestos de la sala. Viene encendido.
+- **"Que los avisos de quién entra o sale de la sala esperen su turno"**: una casilla, marcada de fábrica. Los avisos de que alguien se conecta o se desconecta, o de que crea o deja una mesa, ya no cortan lo que tu lector está diciendo: esperan a que termine y salen después. Lo importante no cambia (tu turno, tus mensajes privados, lo de tu mesa y los avisos del sistema salen como siempre) y todo queda en el historial. Esto también vale dentro de los cuadros de la app. Si callas a tu lector, los avisos que esperaban se descartan (siguen en el historial). Si desmarcas la casilla, esos avisos interrumpen como antes. Un límite honesto: lo que tu lector diga por su cuenta, fuera de la app, sí puede cortarse. Si en la sala subiste a Alta o Máxima la prioridad del canal de esos avisos, interrumpen igual, porque eso es pedirlo.
 - "Personalizar gestos" (parte 22).
 - **"Ayuda de gestos"**: la ayuda completa, adaptada a tu lector y al juego de ahora.
 - **"Cómo se confirma lo peligroso"**: "Repitiendo el mismo gesto antes de 5 segundos" (de fábrica) o "Con un cuadro Sí o No, con el «No» ya marcado" (recomendado si tienes temblor).
@@ -688,7 +695,7 @@ Volúmenes: sonido, notificaciones y música y flujos, cada uno con su barra y s
 
 ### Actualizaciones (entre Volúmenes y Avanzado):
 
-- Una línea con la versión que tienes: "Tienes la versión 1.0.6 de QC Sala."
+- Una línea con la versión que tienes: "Tienes la versión 1.0.7 de QC Sala."
 - Una explicación: al abrir la app y luego cada tres horas mientras sigue abierta y conectada a la sala, QC Sala le pregunta a GitHub, el sitio donde se publica, si hay una versión nueva. Solo le dice el nombre de la app y su número de versión. No manda nada tuyo: ni tu cuenta ni datos del teléfono, como la versión de Android.
 - La casilla "Buscar actualizaciones". Viene encendida. Si la apagas, la app deja de preguntar sola.
 - El botón "Buscar actualizaciones ahora": revisa en ese momento, también con la casilla apagada, y te dice el resultado en un cuadro, aunque no haya nada nuevo (parte 26).
@@ -760,9 +767,9 @@ Cada botón dice el gesto, lo que hace ahora y de dónde sale: "lo del juego" (d
 
 Al tocar un botón se abre la lista de acciones. La primera es "Lo del juego (de fábrica)", que hace lo que haga ese gesto en el juego en que estés; luego "Nada" y todas las demás: "Atrás de Android", "Inicio de Android", "Apps recientes de Android", "Abrir las notificaciones", "Devolver la pantalla al lector", jugar o confirmar, robar, gestos del juego, menú contextual, el historial, moverte de zona y de elemento, callar la voz del lector, a quién le toca, puntos, quién está en la mesa, averiguar el juego, "Abrir el chat", "Abrir Más opciones" y otras.
 
-También puedes dar a un gesto cualquier opción de Más opciones (para todos los juegos o solo para uno, y también a los gestos en ángulo). Se llaman igual que allí: "Estado de la conexión", "Volver a conectar", "Atrás en el menú del juego", "Usuarios conectados", "Lista de amigos", "Salir de la mesa", "Ver el historial", "Cambiar la vista del historial", "Borrar el historial", "Escribir de nuevo un mensaje que enviaste", "Abrir los enlaces del mensaje", "Ayuda de gestos", "Personalizar gestos", "Muestra de audio", "Volúmenes", "Ajustes de la app", quitar la protección de la zona, "Salir de la sala" y "Cerrar sesión en qcsalon.net". De fábrica ningún gesto las tiene: solo hacen algo si tú se las das. Hacen lo mismo que su opción y con las mismas preguntas: salir de la mesa, salir de la sala, borrar el historial y cerrar la sesión te preguntan antes. Si en ese momento no tiene caso, suena el tope y oyes por qué; por ejemplo, "Salir de la mesa" y "Muestra de audio" fuera de una mesa dicen "No estás en una mesa.", y "Volver a conectar" con la conexión en marcha dice "No hace falta volver a conectar.". Quitar la protección de la zona solo se hace desde Más opciones, para no hacerlo por error: si se lo das a un gesto, la app te dice que no.
+También puedes dar a un gesto cualquier opción de Más opciones (para todos los juegos o solo para uno, y también a los gestos en ángulo). Se llaman igual que allí: "Estado de la conexión", "Volver a conectar", "Atrás en el menú del juego", "Usuarios conectados", "Lista de amigos", "Salir de la mesa", "Ver el historial", "Cambiar la vista del historial", "Borrar el historial", "Escribir de nuevo un mensaje que enviaste", "Abrir los enlaces del mensaje", "Ayuda de gestos", "Personalizar gestos", "Muestra de audio", "Foro", "Mensajes permanentes", "Volúmenes", "Ajustes de la app", quitar la protección de la zona, "Salir de la sala" y "Cerrar sesión en qcsalon.net". De fábrica ningún gesto las tiene: solo hacen algo si tú se las das. Hacen lo mismo que su opción y con las mismas preguntas: salir de la mesa, salir de la sala, borrar el historial y cerrar la sesión te preguntan antes. Si en ese momento no tiene caso, suena el tope y oyes por qué; por ejemplo, "Salir de la mesa" y "Muestra de audio" fuera de una mesa dicen "No estás en una mesa.", y "Volver a conectar" con la conexión en marcha dice "No hace falta volver a conectar.". Quitar la protección de la zona solo se hace desde Más opciones, para no hacerlo por error: si se lo das a un gesto, la app te dice que no.
 
-Para los volúmenes hay además tres acciones que no son opciones de Más opciones y que de fábrica ningún gesto tiene: "Elegir el siguiente volumen", "Subir volumen" y "Bajar volumen" (parte 19).
+Para el historial hay además dos acciones, "Vista siguiente del historial" y "Vista anterior del historial", que ya traen los gestos de dos dedos de ir y volver a los lados (arriba, en esta misma parte); puedes darlas a otro gesto. Para los volúmenes hay además tres acciones que no son opciones de Más opciones y que de fábrica ningún gesto tiene: "Elegir el siguiente volumen", "Subir volumen" y "Bajar volumen" (parte 19).
 
 Qué manda en cada gesto: lo que elegiste solo para ese juego; si no hay, lo que elegiste para todos los juegos; y si tampoco, lo del juego. Dentro de un juego, elegir lo mismo que vale para todos quita lo propio de ese juego. Lo que personalizaste antes de que existiera esta opción vale en todos los juegos. Una acción que no existe en un juego no hace nada en él.
 
@@ -782,6 +789,10 @@ El toque directo parece apagado. Mira en Ajustes, en "Lector de pantalla y gesto
 - **"Toque directo: apagado"**: enciéndelo (parte 4). Si el servicio sale en gris, sigue los pasos de "Si el servicio sale en gris", en esa misma parte.
 - "Toque directo: encendido, pero «Gestos de la sala» está apagado": marca "Gestos de la sala".
 - **"Toque directo: necesita Android 11 o más"**: en tu teléfono la sala se usa con tu lector normal.
+
+### Con un teclado físico:
+
+Si usas un teclado conectado al teléfono y, en la sala principal, Alt+C te dice "Combinación de teclas no admitida", ese mensaje es de tu lector de pantalla, no de QC Sala. La app lleva al chat con Alt+C en cualquier lugar de la sala, con o sin mesa, y el Tabulador también llega al chat. El lector recibe las teclas antes que la app y, en algunos, como Voice Assistant de Samsung o TalkBack con su teclado clásico, Alt es la tecla de sus propios atajos: se queda con Alt+C y, como no es uno de ellos, da ese mensaje. Con TalkBack 17 funciona. Qué hacer: cambiar en tu lector la tecla de sus atajos, si te deja, o llegar al chat con el Tabulador. (Gracias a JohnnyBravo y a John_Lowell por reportarlo y aclararlo.)
 
 ### La zona de juego no responde a un gesto:
 
@@ -849,7 +860,7 @@ Para reportar un fallo, enciende el registro de depuración (Ajustes, Avanzado, 
 
 Desde la versión 1.0.2, QC Sala se actualiza con su propio botón: no hace falta que te manden el archivo ni abrirlo a mano. La app le pregunta a GitHub, la página donde se publica, si hay una versión nueva: al abrirla y luego cada tres horas mientras sigue abierta y conectada a la sala. Esa consulta solo lleva el nombre de la app y su número de versión.
 
-Cuando hay una versión nueva, sale un cuadro llamado "Hay una versión nueva de QC Sala". Oirás el número de la versión nueva y el de la que tienes ("Versión 1.0.6. Tienes la 1.0.5."), cuánto pesa la descarga y las novedades. Tiene dos botones, que están arriba, justo después del número de versión y el tamaño, y no se cortan aunque tengas el teléfono acostado o la letra muy grande: "Actualizar" y "Después". Las novedades van debajo y salen en el idioma de tu app. Con "Después", el cuadro se cierra y la app no te vuelve a ofrecer esa versión mientras siga abierta; te la ofrece otra vez la próxima vez que la abras.
+Cuando hay una versión nueva, sale un cuadro llamado "Hay una versión nueva de QC Sala". Oirás el número de la versión nueva y el de la que tienes ("Versión 1.0.8. Tienes la 1.0.7."), cuánto pesa la descarga y las novedades. Tiene dos botones, que están arriba, justo después del número de versión y el tamaño, y no se cortan aunque tengas el teléfono acostado o la letra muy grande: "Actualizar" y "Después". Las novedades van debajo y salen en el idioma de tu app. Con "Después", el cuadro se cierra y la app no te vuelve a ofrecer esa versión mientras siga abierta; te la ofrece otra vez la próxima vez que la abras.
 
 **Si sale mientras juegas.** Depende de Ajustes, Actualizaciones, "Avisarme a media partida". De fábrica ("Al salir de la mesa"), la app te dice de voz una sola vez "Hay una versión nueva de QC Sala. Te la ofrezco al salir de la mesa." y el cuadro sale cuando sales de la mesa, sin interrumpir tu partida. Con "Al instante", el cuadro sale aunque estés jugando y te avisa que, si actualizas en ese momento, Android cierra QC Sala y sales de la partida.
 
