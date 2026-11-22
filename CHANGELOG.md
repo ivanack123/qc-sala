@@ -4,6 +4,16 @@ QC Sala es una app no oficial para Android, hecha para jugar en la Sala de Juego
 
 El número de versión tiene tres partes: la primera sube con un gran salto, la segunda con funciones nuevas y la tercera con correcciones pequeñas.
 
+## Versión 1.0.8 (22 de noviembre de 2026)
+
+### Novedades
+
+- En la lista para unirte a una mesa, la sala corta los nombres con puntos suspensivos cuando hay muchos jugadores. Ahora, con el toque directo, dos dedos hacia arriba sobre una mesa de esa lista te dicen el renglón completo, con todos los que están en ella, sea cual sea el juego que elegiste. También está en las acciones de tu lector de la zona de juego, como "Detalles del elemento". (Gracias a william2.)
+
+### Cambios
+
+- Las notificaciones de otras apps ya no apagan el toque directo. Antes, cada notificación de WhatsApp o de cualquier app quitaba la zona de juego 6 segundos y tus gestos se iban a tu lector. Ahora solo el tercio de arriba de la pantalla, donde baja la notificación, es de tu lector esos segundos, para que no la abras sin querer; en todo lo demás, tus gestos siguen siendo del juego. (Gracias a Sergio_rama.)
+
 ## Versión 1.0.7 (15 de octubre de 2026)
 
 ### Novedades
@@ -246,6 +256,11 @@ La primera versión para compartir con amigos. Es un archivo APK de unos 4,7 MB,
 
 ## In English
 
+### Version 1.0.8 (November 22, 2026)
+
+- In the list for joining a table, the playroom cuts names off with an ellipsis when there are many players. Now, with direct touch, swiping two fingers up on a table in that list tells you the full line, with everyone who is there, whatever game you picked. It’s also in your screen reader’s actions for the game area, as “Item details”. (Thanks to william2.)
+- Notifications from other apps no longer turn off direct touch. Only the top third of the screen, where the notification comes down, belongs to your screen reader for 6 seconds, so you don’t open it by accident; everywhere else, your gestures still belong to the game. (Thanks to Sergio_rama.)
+
 ### Version 1.0.7 (October 15, 2026)
 
 - New: gestures to change the history view, as in the desktop program. With direct touch, in the game area: two fingers right then left, without lifting them, take you to the next view (General, Game, Discussions, Private messages, Invitations, Friends, Public chat); left then right, to the previous one. After the last one it goes back to the first. You hear the name of the view and how many messages it has ("Game: 12 messages"), and the two-finger previous and next message swipes go through only that view: so, in any game, you can hear just the game or just the chat. They come by default in every game, you can change them in Customize gestures, and they are also among your screen reader's actions on the history heading, to use them without direct touch. (Thanks to Principe_Guerrero.)
@@ -295,6 +310,11 @@ La primera versión para compartir con amigos. Es un archivo APK de unos 4,7 MB,
 - Extra safety: the app never follows a redirect that could send your pass to another server.
 
 ## En français
+
+### Version 1.0.8 (22 novembre 2026)
+
+- Dans la liste pour rejoindre une table, le Salon coupe les noms avec des points de suspension quand il y a beaucoup de joueurs. Maintenant, avec le toucher direct, balayer deux doigts vers le haut sur une table de cette liste vous dit la ligne complète, avec tous ceux qui y sont, quel que soit le jeu choisi. C’est aussi dans les actions de votre lecteur d’écran pour la zone de jeu, « Détails de l’élément ». (Merci à william2.)
+- Les notifications des autres applis ne désactivent plus le toucher direct. Seul le tiers supérieur de l’écran, là où descend la notification, revient à votre lecteur d’écran pendant 6 secondes, pour ne pas l’ouvrir par erreur ; partout ailleurs, vos gestes restent pour le jeu. (Merci à Sergio_rama.)
 
 ### Version 1.0.7 (15 octobre 2026)
 

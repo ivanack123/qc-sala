@@ -1,6 +1,6 @@
 # QC SALA EASY GUIDE
 
-For version 1.0.7 of the app.
+For version 1.0.8 of the app.
 
 This guide is short and simple. Each part has a number and a title. The steps tell you what to do and, often, what you’ll hear.
 
@@ -15,7 +15,7 @@ This guide is short and simple. Each part has a number and a title. The steps te
 
 ## 1. BEFORE YOU START: INSTALLING THE APP
 
-If QC Sala isn’t on your phone yet, you need to install it first. The app comes in a file called QC-Sala-1.0.7.apk.
+If QC Sala isn’t on your phone yet, you need to install it first. The app comes in a file called QC-Sala-1.0.8.apk.
 
 Another guide, the Installation Guide, explains step by step how to install it: it’s the file [INSTALLATION GUIDE](installation-guide.md). If you find it hard, ask someone you trust to help you with that part.
 
@@ -122,6 +122,8 @@ What to do: turn direct touch off before opening your bank, and turn it back on 
 2. The button in Android’s Quick Settings (the panel you open by swiping down from the top). It is called "QC Sala: direct touch". If direct touch is on, one tap turns it off; if it is off, it takes you to its switch, because Android doesn’t let an app turn its own service on. To put it there, in "App settings" tap "Add direct touch to Quick Settings" (Android 13 or later; on Android 11 and 12 the app explains how to add it by hand).
 3. Android’s accessibility settings. Turn "QC Sala: direct touch" off there, the same way you turned it on.
 
+When you get a notification from another app (a WhatsApp message, for example), direct touch doesn’t turn off: only the top of the screen, where the notification comes down, belongs to your screen reader for a few seconds. Everywhere else, your gestures still belong to the game.
+
 ## 7. HOW THE PLAYROOM SCREEN IS LAID OUT
 
 ### With direct touch on:
@@ -163,6 +165,7 @@ These gestures work with direct touch on. Do them anywhere on the playroom scree
 13. Two strokes in a row with one finger, without lifting it: down then left is Back, like the phone’s Back button. Down then right, done twice, opens your screen reader’s menu. The first time you hear “Your screen reader has the screen: repeat the gesture”; the second time your screen reader does it.
 14. To jump straight to the first or the last item in the area, make two strokes in a row with one finger, without lifting it: up then down takes you to the first (the first card or the first option); down then up takes you to the last. They also work in the history, to jump to the first or last message of the view. Make each stroke long, like a normal swipe. If you were already on that item, you hear a stop sound.
 15. To change what the history goes through (the view), make two strokes in a row with two fingers, without lifting them: right then left takes you to the next view (General, Game, Discussions, Private messages, Invitations, Friends and Public chat); left then right, to the previous one. You hear the name of the view and how many messages it has, and from then on two fingers left and right go through only that view. That way you can hear just the game, or just the chat.
+16. In the list for joining a table, swipe two fingers up on a table: it tells you everyone who is there, not just the first few.
 
 The first time you join each game, you hear: "Hold two fingers on the screen to learn this game’s gestures." That’s gesture 12.
 

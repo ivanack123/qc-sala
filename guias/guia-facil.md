@@ -1,6 +1,6 @@
 # GUÍA FÁCIL DE QC SALA
 
-Para la versión 1.0.7 de la app.
+Para la versión 1.0.8 de la app.
 
 Esta guía es corta y sencilla. Cada parte tiene un número y un título. Los pasos dicen qué hacer y, muchas veces, qué vas a oír.
 
@@ -15,7 +15,7 @@ Esta guía es corta y sencilla. Cada parte tiene un número y un título. Los pa
 
 ## 1. ANTES DE EMPEZAR: INSTALAR LA APP
 
-Si QC Sala todavía no está en tu teléfono, primero hay que instalarla. La app viene en un archivo que se llama QC-Sala-1.0.7.apk.
+Si QC Sala todavía no está en tu teléfono, primero hay que instalarla. La app viene en un archivo que se llama QC-Sala-1.0.8.apk.
 
 Cómo instalarla, paso a paso, lo explica otra guía, la Guía de instalación: es el archivo [GUÍA DE INSTALACIÓN](guia-instalacion.md). Si te cuesta, pide a alguien de confianza que te ayude con esa parte.
 
@@ -122,6 +122,8 @@ Qué hacer: apaga el toque directo antes de abrir el banco y vuelve a encenderlo
 2. El botón de los ajustes rápidos de Android (el panel que se abre deslizando desde arriba). Se llama "QC Sala: toque directo". Si el toque directo está encendido, un toque lo apaga; si está apagado, te lleva a su interruptor, porque Android no deja que una app encienda sola su servicio. Para ponerlo ahí, en "Ajustes de la app" toca "Poner el toque directo en los ajustes rápidos" (Android 13 o más; en Android 11 y 12 la app te explica cómo agregarlo a mano).
 3. Los ajustes de accesibilidad de Android. Apaga ahí "QC Sala: toque directo", igual que lo encendiste.
 
+Cuando te llega una notificación de otra app (un WhatsApp, por ejemplo), el toque directo no se apaga: solo la parte de arriba de la pantalla, donde baja la notificación, es de tu lector unos segundos. En todo lo demás, tus gestos siguen siendo del juego.
+
 ## 7. CÓMO ES LA PANTALLA DE LA SALA
 
 ### Con el toque directo encendido:
@@ -163,6 +165,7 @@ Estos gestos funcionan con el toque directo encendido. Hazlos en cualquier parte
 13. Dos gestos con un dedo, en dos trazos seguidos sin levantarlo: abajo y luego a la izquierda es Atrás, como el botón Atrás del teléfono. Abajo y luego a la derecha, hecho dos veces, abre el menú de tu lector. La primera vez oyes "Pantalla para tu lector: repite el gesto"; la segunda lo hace tu lector.
 14. Para ir de un salto al primero o al último elemento de la zona, haz con un solo dedo dos trazos seguidos, sin levantarlo: arriba y luego abajo te lleva al primero (la primera carta o la primera opción); abajo y luego arriba, al último. También sirven en el historial, para ir al primer o al último mensaje de la vista. Haz cada trazo largo, como un deslizamiento normal. Si ya estabas en ese elemento, suena un tope.
 15. Para cambiar lo que recorre el historial (la vista), haz con dos dedos dos trazos seguidos, sin levantarlos: a la derecha y luego a la izquierda pasas a la vista siguiente (General, Juego, Conversaciones, Mensajes privados, Invitaciones, Amigos y Chat público); a la izquierda y luego a la derecha, a la anterior. Oyes el nombre de la vista y cuántos mensajes tiene, y desde ahí los dos dedos a los lados recorren solo esa vista. Así puedes oír solo lo del juego, o solo el chat.
+16. En la lista para unirte a una mesa, desliza dos dedos hacia arriba sobre una mesa: te dice todos los que están en ella, no solo los primeros.
 
 La primera vez que entras a cada juego oyes: "Mantén dos dedos para conocer los gestos de este juego." Es el gesto 12.
 

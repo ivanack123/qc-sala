@@ -1,6 +1,6 @@
 # GUIDE FACILE DE QC SALA
 
-Pour la version 1.0.7 de l’appli.
+Pour la version 1.0.8 de l’appli.
 
 Ce guide est court et simple. Chaque partie a un numéro et un titre. Les étapes indiquent ce qu’il faut faire et, souvent, ce que vous allez entendre.
 
@@ -15,7 +15,7 @@ Ce guide est court et simple. Chaque partie a un numéro et un titre. Les étape
 
 ## 1. AVANT DE COMMENCER : INSTALLER L’APPLI
 
-Si QC Sala n’est pas encore sur votre téléphone, il faut d’abord l’installer. L’appli se présente sous la forme d’un fichier appelé QC-Sala-1.0.7.apk.
+Si QC Sala n’est pas encore sur votre téléphone, il faut d’abord l’installer. L’appli se présente sous la forme d’un fichier appelé QC-Sala-1.0.8.apk.
 
 L’installation, étape par étape, est expliquée dans un autre guide, le Guide d’installation : c’est le fichier « GUIDE D'INSTALLATION de QC Sala.txt ». Si c’est difficile pour vous, demandez à une personne de confiance de vous aider pour cette partie.
 
@@ -122,6 +122,8 @@ Que faire : désactivez le toucher direct avant d’ouvrir votre banque, puis r
 2. Le bouton des réglages rapides d’Android (le panneau qui s’ouvre en balayant depuis le haut de l’écran). Il s’appelle « QC Sala : toucher direct ». Si le toucher direct est activé, un appui le désactive ; s’il est désactivé, le bouton vous amène à son interrupteur, car Android ne permet pas à une appli d’activer elle-même son service. Pour l’y placer, dans « Paramètres de l’appli », appuyez sur « Ajouter le toucher direct aux réglages rapides » (Android 13 ou plus récent ; sous Android 11 et 12, l’appli explique comment l’ajouter à la main).
 3. Les paramètres d’accessibilité d’Android. Désactivez-y « QC Sala : toucher direct », comme vous l’avez activé.
 
+Quand une notification d’une autre appli arrive (un message WhatsApp, par exemple), le toucher direct ne se désactive pas : seul le haut de l’écran, là où descend la notification, revient à votre lecteur d’écran quelques secondes. Partout ailleurs, vos gestes restent pour le jeu.
+
 ## 7. À QUOI RESSEMBLE L’ÉCRAN DU SALON
 
 ### Avec le toucher direct activé :
@@ -163,6 +165,7 @@ Ces gestes fonctionnent avec le toucher direct activé. Faites-les n’importe o
 13. Deux traits à la suite avec un doigt, sans le lever : vers le bas puis vers la gauche, c’est Retour, comme le bouton Retour du téléphone. Vers le bas puis vers la droite, deux fois de suite, ouvre le menu de votre lecteur d’écran. La première fois, vous entendez « Écran rendu à votre lecteur : refaites le geste » ; la deuxième fois, votre lecteur l’exécute.
 14. Pour aller d’un bond au premier ou au dernier élément de la zone, faites avec un seul doigt deux traits à la suite, sans le lever : vers le haut puis vers le bas, vous allez au premier (la première carte ou la première option) ; vers le bas puis vers le haut, au dernier. Ils fonctionnent aussi dans l’historique, pour aller au premier ou au dernier message de la vue. Faites chaque trait long, comme un balayage normal. Si vous étiez déjà sur cet élément, vous entendez une butée.
 15. Pour changer ce que parcourt l’historique (la vue), faites avec deux doigts deux traits à la suite, sans les lever : vers la droite puis vers la gauche, vous passez à la vue suivante (Général, Jeu, Discussions, Messages privés, Invitations, Amis et Chat public) ; vers la gauche puis vers la droite, à la précédente. Vous entendez le nom de la vue et son nombre de messages, et ensuite les balayages à deux doigts vers les côtés ne parcourent plus que cette vue. Ainsi, vous pouvez n’écouter que le jeu, ou que le chat.
+16. Dans la liste pour rejoindre une table, balayez deux doigts vers le haut sur une table : elle vous dit tous ceux qui y sont, pas seulement les premiers.
 
 La première fois que vous entrez dans chaque jeu, vous entendez : « Maintenez deux doigts sur l’écran pour découvrir les gestes de ce jeu. » C’est le geste 12.
 
